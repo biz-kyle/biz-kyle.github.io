@@ -12,11 +12,15 @@
 
 .site-title {
     font-size: 26px;
-    line-height: 1em;
+    line-height: 1.2em;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 	 color: $brand-color;
+
+	 @include media-query($on-palm) {
+		margin-top: 0.5em;
+	 }
 
 }
 

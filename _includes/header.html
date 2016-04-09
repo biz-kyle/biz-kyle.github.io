@@ -27,14 +27,14 @@
 <!-- jQuery tags for showing cards on mobile -->
 <script>
 
-	$(window).ready(function() {
-		$(".card").on("vclick",function() {
+	$(window).ready(function(){
+		$(".card").on("click",function(){
 			alert('tap');
-			if ($(this).children(".cardimg").style.display == "none") {
-				$(this).children(".cardimg").style.display = "inline";
+			if ($(this).children(".cardimg").css('display') == 'none') {
+				$(this).children(".cardimg").css('display') = 'inline';
 				}
-			else if ($(this).children(".cardimg").style.display == "inline") {
-				$(this).children(".cardimg").style.display = "none";
+			else if ($(this).children(".cardimg").css('display') == "inline") {
+				$(this).children(".cardimg").css('display') = "none";
 			}
 		});
 	});
