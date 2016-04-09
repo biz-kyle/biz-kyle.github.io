@@ -55,3 +55,5 @@ Rogue is the other target. This might seem odd given how little Rogue decks have
 > Basic Rogue cards are seen as slightly too strong. Blizzard is cautious about adding powerful Rogue cards in expansions, since the power level of Rogue Basic cards is already so high. For example, Tinker's Sharpsword Oil and Tomb Pillager are two of the only significant additions in all of the expansions and adventures for the Rogue class. Look for Basic Rogue cards to be nerfed so that more powerful Rogue cards can be added in future expansions.
 
 Curious to see which guesses are right. I'll update when the news comes out. 
+
+*Editor's note: This is a new blog. I want to know what you think! Email me at kylebnazario@gmail.com and tell me how I can improve. Snark welcome.*

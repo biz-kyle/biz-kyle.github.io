@@ -86,7 +86,7 @@
 
 <!-- Set animation length for fade in -->
 <style>
-	#pageContent, .cardimg {
+	#pageContent {
 		-webkit-animation-duration: 1s;
 			-moz-animation-duration: 1s;
 				  animation-duration: 1s;
@@ -141,18 +141,14 @@ function hideDiv() {
 
 </header>
 
-<!-- jQuery tags for showing cards on mobile -->
+<!-- jQuery for toggling card images on mobile -->
 <script>
 
 	$(window).ready(function(){
 		$(".card").on("click",function(){
 			if ($(this).children(".cardimg").css('display') == 'none') {
 				$(this).children(".cardimg").css('display') = 'inline';
-				$(this).children('.cardimg').delay(5000).css('display') = 'none';
 				}
-			else if ($(this).children(".cardimg").css('display') == "inline") {
-				$(this).children(".cardimg").css('display') = "none";
-			}
 		});
 
 		$("p").on("click",function(){
@@ -272,6 +268,8 @@ included. -->
 </blockquote>
 
 <p>Curious to see which guesses are right. I’ll update when the news comes out.</p>
+
+<p><em>Editor’s note: This is a new blog. I want to know what you think! Email me at kylebnazario@gmail.com and tell me how I can improve. Snark welcome.</em></p>
 
 	 </div>
 

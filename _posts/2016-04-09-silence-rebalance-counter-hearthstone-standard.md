@@ -18,3 +18,5 @@ Brian Kibler presented a [potential alternative](http://www.pcgamer.com/brian-ki
 > It is important for players to feel like they have the ability to interfere with what their opponents are trying to do outside of having to outright kill every minion that gets played. [...] <br><br>Right now, lots of decks play Silence effects, but for wildly different reasons. I’d like to see cards that directly address individual abilities, so that players who are specifically looking to deal with those categories of cards have more options.
 
 More granular counters and room for buff decks? Seems like a no-brainer. 
+
+*Editor's note: This is a new blog. I want to know what you think! Email me at kylebnazario@gmail.com and tell me how I can improve. Snark welcome.*

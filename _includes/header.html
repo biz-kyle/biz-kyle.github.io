@@ -24,18 +24,14 @@
 
 </header>
 
-<!-- jQuery tags for showing cards on mobile -->
+<!-- jQuery for toggling card images on mobile -->
 <script>
 
 	$(window).ready(function(){
 		$(".card").on("click",function(){
 			if ($(this).children(".cardimg").css('display') == 'none') {
 				$(this).children(".cardimg").css('display') = 'inline';
-				$(this).children('.cardimg').delay(5000).css('display') = 'none';
 				}
-			else if ($(this).children(".cardimg").css('display') == "inline") {
-				$(this).children(".cardimg").css('display') = "none";
-			}
 		});
 
 		$("p").on("click",function(){

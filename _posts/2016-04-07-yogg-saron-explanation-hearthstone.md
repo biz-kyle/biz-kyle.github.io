@@ -21,3 +21,5 @@ From a nicely detailed explanation on [/r/hearthstone](https://www.reddit.com/r/
 * Brann will make Yogg-Saron perform its battlecry twice for double the chaos ([source](https://twitter.com/PlayHearthstone/status/718130744330207232))
 
 Too random to be competitive, but amazing potential for YouTube highlight videos. 
+
+*Editor's note: This is a new blog. I want to know what you think! Email me at kylebnazario@gmail.com and tell me how I can improve. Snark welcome.*

@@ -419,3 +419,11 @@
 	}
 
 	}
+
+/* Force card images to appear within the body */
+.cardimg {
+	@include media-query($on-palm) {
+		margin-left: 0px;
+		left: 0px;
+	}
+}
