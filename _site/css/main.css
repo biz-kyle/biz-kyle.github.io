@@ -59,7 +59,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-header { border-bottom: 1px solid white; min-height: 56px; position: relative; }
 
 .site-title { font-size: 26px; line-height: 1.2em; letter-spacing: -1px; margin-bottom: 0; float: left; color: white; }
-@media screen and (max-width: 600px) { .site-title { margin-top: 0.5em; } }
+@media screen and (max-width: 600px) { .site-title { margin-top: 0.5em; margin-bottom: 0.5em; } }
 
 .site-nav { float: right; line-height: 56px; }
 .site-nav .menu-icon { display: none; }
