@@ -95,11 +95,11 @@ sup a:hover {
 	max-width: 500px;
 	z-index: 1;
 }
-.card:hover > .cardimg, .card:focus > .cardimg {
+.card:hover > .cardimg, .card:active > .cardimg {
 	display: inline;
 }
 
 /* Fix spacing for site title */
 .site-title {
-	line-height: 0.5em;
+	line-height: 1em;
 }
