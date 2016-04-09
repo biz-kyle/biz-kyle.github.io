@@ -58,6 +58,10 @@
   <link rel="alternate" type="application/rss+xml" title="The Maddest Bomber&#58; A Hearthstone Blog" href="http://www.maddestbomber.com/feed.xml" />
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 
+  <!-- jQuery Import -->
+  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
   <!-- Favicon -->
   <link rel="shortcut icon" href="/blog/assets/favicon.ico">
   <link rel="apple-touch-icon" sizes="57x57" href="/blog/assets/apple-icon-57x57.png">
@@ -137,6 +141,23 @@ function hideDiv() {
   </div>
 
 </header>
+
+<!-- jQuery tags for showing cards on mobile -->
+<script>
+
+	$(window).ready(function() {
+		$(".card").on("vclick",function() {
+			alert('tap');
+			if ($(this).children(".cardimg").style.display == "none") {
+				$(this).children(".cardimg").style.display = "inline";
+				}
+			else if ($(this).children(".cardimg").style.display == "inline") {
+				$(this).children(".cardimg").style.display = "none";
+			}
+		});
+	});
+
+</script>
 
 
     <div id="pageContent" class="animated fadeIn page-content">

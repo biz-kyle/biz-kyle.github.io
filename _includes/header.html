@@ -28,12 +28,15 @@
 <script>
 
 	$(window).ready(function() {
-		$(".card").on("tap",function() {
+		$(".card").on("vclick",function() {
+			alert('tap');
 			if ($(this).children(".cardimg").style.display == "none") {
 				$(this).children(".cardimg").style.display = "inline";
 				}
 			else if ($(this).children(".cardimg").style.display == "inline") {
 				$(this).children(".cardimg").style.display = "none";
 			}
+		});
+	});
 
 </script>

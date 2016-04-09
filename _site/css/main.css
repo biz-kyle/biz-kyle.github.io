@@ -58,7 +58,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Site header */
 .site-header { border-bottom: 1px solid white; min-height: 56px; position: relative; }
 
-.site-title { font-size: 26px; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; color: white; }
+.site-title { font-size: 26px; line-height: 1em; letter-spacing: -1px; margin-bottom: 0; float: left; color: white; }
 
 .site-nav { float: right; line-height: 56px; }
 .site-nav .menu-icon { display: none; }
