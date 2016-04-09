@@ -420,6 +420,18 @@
 
 	}
 
+/* Hide and display card images. Text is marked to show it's interactive and 
+ * can be hovered over or tapped if on mobile to display the image. */
+.card {
+	position: relative;
+	text-decoration: underline;
+	color: #639BF1;
+	display: inline;
+}
+.card:hover > .cardimg, .card:active > .cardimg {
+	display: inline;
+}
+
 /* Force card images to appear within the body */
 .cardimg {
 	display: none;
