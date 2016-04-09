@@ -98,3 +98,8 @@ sup a:hover {
 .card:hover > .cardimg, .card:focus > .cardimg {
 	display: inline;
 }
+
+/* Fix spacing for site title */
+.site-title {
+	line-height: 0.5em;
+}
