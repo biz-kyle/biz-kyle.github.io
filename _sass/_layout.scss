@@ -422,8 +422,14 @@
 
 /* Force card images to appear within the body */
 .cardimg {
+	display: none;
+	position: absolute;
+	top: 10px;
+	max-width: 500px;
+	z-index: 1;
+		  
 	@include media-query($on-palm) {
 		margin-left: 0px;
-		left: 0px;
+		right: 0px;
 	}
 }
