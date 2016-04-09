@@ -23,3 +23,17 @@
   </div>
 
 </header>
+
+<!-- jQuery tags for showing cards on mobile -->
+<script>
+
+	$(window).ready(function() {
+		$(".card").on("tap",function() {
+			if ($(this).children(".cardimg").style.display == "none") {
+				$(this).children(".cardimg").style.display = "inline";
+				}
+			else if ($(this).children(".cardimg").style.display == "inline") {
+				$(this).children(".cardimg").style.display = "none";
+			}
+
+</script>
