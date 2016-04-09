@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafaam&#39;s Staff&amp;#58; A Hearthstone Blog</title>
+    <description>I built this website to store my previous work, some of which has vanished since publication. News stories tend not to have an incredibly long lifespan, especially on the internet. This site is a way to preserve my old stories and show my talents to  employers. Please feel free to contact me with any questions.
+</description>
+    <link>http://www.kylenazario.com/</link>
+    <atom:link href="http://www.kylenazario.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 09 Apr 2016 13:37:24 -0400</pubDate>
+    <lastBuildDate>Sat, 09 Apr 2016 13:37:24 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Silence is getting rebalanced</title>
+        <description>&lt;p&gt;Silence will likely see significant changes in Standard. Monk, writing in &lt;a href=&quot;http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard&quot;&gt;LiquidHearth&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Blizzard is looking to weaken Silence overall. According to developers, it felt strange when you played a buff deck and it just happens to get countered because you happen to have two Silences innately built into your Druid deck. Extrapolating this could point to cards like Ironbeak Owl and Spellbreaker receiving nerfs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If we accept Blizzard will change cards based on whether they &lt;a href=&quot;/2016/04/08/hearthstone-standard-nerfs.html&quot;&gt;limit potential future designs&lt;/a&gt;, an overall Silence nerf makes sense. Only gimmick decks rely heavily on buffs because everyone plays at least one &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ironbeakowl.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Brian Kibler presented a &lt;a href=&quot;http://www.pcgamer.com/brian-kibler-on-why-silence-is-not-golden-in-hearthstone/&quot;&gt;potential alternative&lt;/a&gt; for &lt;em&gt;PC Gamer&lt;/em&gt; back in October:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is important for players to feel like they have the ability to interfere with what their opponents are trying to do outside of having to outright kill every minion that gets played. […] &lt;br /&gt;&lt;br /&gt;Right now, lots of decks play Silence effects, but for wildly different reasons. I’d like to see cards that directly address individual abilities, so that players who are specifically looking to deal with those categories of cards have more options.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More granular counters and room for buff decks? Seems like a no-brainer.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://www.kylenazario.com/2016/04/09/silence-rebalance-counter-hearthstone-standard.html</link>
+        <guid isPermaLink="true">http://www.kylenazario.com/2016/04/09/silence-rebalance-counter-hearthstone-standard.html</guid>
+        
+        
+        <category>nerfs,</category>
+        
+        <category>balance,</category>
+        
+        <category>standard,</category>
+        
+        <category>silence</category>
+        
+      </item>
+    
+      <item>
+        <title>What Blizzard might nerf</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://hearthstone.gamepedia.com/Standard_format&quot;&gt;Standard&lt;/a&gt; means new cards and &lt;a href=&quot;http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now&quot;&gt;promised nerfs&lt;/a&gt;. Blizzard won’t say which cards will change to what, but they’ve given some hints. It won’t even say how many, just that it &lt;a href=&quot;http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/&quot;&gt;will be&lt;/a&gt; “less than 20 but definitely more than two.”&lt;/p&gt;
+
+&lt;p&gt;Some of the most powerful cards in the game like &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/pilotedshredder.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Piloted Shredder&lt;/span&gt;&lt;/span&gt;
+ and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/drboom.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Dr. Boom&lt;/span&gt;&lt;/span&gt;
+ are part of Naxxramas and Goblins vs. Gnomes and will rotate out of the format. They probably won’t be changed, which leaves the Classic cards that will stay in Standard.&lt;/p&gt;
+
+&lt;p&gt;So which ones will be changed? We can make a reasonable guess if you look at Hearthstone from a game designer’s point of view. To Blizzard, powerful cards aren’t necessarily problematic. The problem is cards that limit potential future expansions (see this excellent &lt;a href=&quot;https://www.youtube.com/watch?v=M3b3hDvRjJA&quot;&gt;Extra Credits&lt;/a&gt; video).&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/M3b3hDvRjJA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;For example, Piloted Shredder would be nerfed hard if it weren’t rotating out of Standard. It sees play in most top-tier decks because it’s so powerful. Any future 4-mana minions would either have to be more powerful than Shredder (power creep) or trade well with it (limiting future potential playable minions). That’s a major restriction on any future 4-drops.&lt;/p&gt;
+
+&lt;p&gt;Blizzard will likely target “auto-includes,” cards that we would otherwise play forever. This makes sense from a design perspective, since more variety is better for the game than everyone playing Dr. Boom.&lt;/p&gt;
+
+&lt;p&gt;LiquidHearth &lt;a href=&quot;http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard&quot;&gt;confirmed&lt;/a&gt; variety is a focus for Blizzard, saying, “The design team is going to try to avoid cards that can be splashed too easily in every deck.”&lt;/p&gt;
+
+&lt;p&gt;My guesses for Blizzard’s hitlist:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/keeperofthegrove.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Keeper of the Grove&lt;/span&gt;&lt;/span&gt;
+ - Keeper is a cheap silence, a mechanic that Blizzard is &lt;a href=&quot;http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard&quot;&gt;looking to fix up&lt;/a&gt;. Easy silences hard counter most buff decks, again limiting possible cards.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ancientoflore.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ancient of Lore&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/tirionfordring.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Tirion Fordring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/preparation.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Preparation&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/masterofdisguise.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Master of Disguise&lt;/span&gt;&lt;/span&gt;
+ - Giving any minion permanent stealth has incredible game-breaking potential.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/doomguard.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Doomguard&lt;/span&gt;&lt;/span&gt;
+ - Charge is a problematic mechanic, and Doomguard is too strong with the Warlock hero power.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ironbeakowl.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;
+ - One of the most common autoincludes and a cheap silence. The Owl is already &lt;a href=&quot;http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf&quot;&gt;missing from the deck recipes&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/biggamehunter.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Big Game Hunter&lt;/span&gt;&lt;/span&gt;
+ - Massive limitation on design space. BGH means we only ever play 7+-attack minions that offer some other benefit (e.x. Boom Bots, 8 damage to a random target, a giant that lets you cheat its mana cost).&lt;/li&gt;
+  &lt;li&gt;The Giants - Require BGH.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/alexstrasza.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Alexstrasza&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/knifejuggler.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Knife Juggler&lt;/span&gt;&lt;/span&gt;
+ - The definition of an auto-include for any zoo, aggro or Paladin deck.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/lepergnome.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Leper Gnome&lt;/span&gt;&lt;/span&gt;
+ - Another auto-include for any aggro deck.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Interesting side note on choosing individual card nerfs. &lt;em&gt;PC Gamer&lt;/em&gt; &lt;a href=&quot;http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/&quot;&gt;asked&lt;/a&gt; Ben Brode about Knife Juggler getting a smackdown:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m really interested in hearing the community’s feedback and what they think the problem cards are and… That’s a good note, I appreciate it. [Laughs]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Brode says little but implies players’ feelings toward certain cards will affect what gets changed. Considering the community’s &lt;a href=&quot;https://www.reddit.com/r/hearthstone/search?q=knife+juggler+nerf&amp;amp;restrict_sr=on&amp;amp;sort=relevance&amp;amp;t=all&quot;&gt;feelings toward Knife Juggler in particular&lt;/a&gt;, a rebalance seems likely.&lt;/p&gt;
+
+&lt;h2 id=&quot;class-nerfs&quot;&gt;Class nerfs&lt;/h2&gt;
+
+&lt;p&gt;Some entire classes will get a much-deserved power reduction. Steve Watts and Ozzie Mejia, for &lt;a href=&quot;http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now&quot;&gt;Shack News&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I will say that in general, when we look at ensuring the Standard format is a dynamically changing environment, I think we have to look at changing the Druid cards,” (Brode) said.&lt;br /&gt;&lt;br /&gt;“Because so many of the cards in their decks are from the basic sets, kind of unevenly from every other class in the game. All of its power right now stems from the classic sets, so it’s hard for us to make new cards that are more appealing to Druid players than those basic cards. So we’re definitely looking at those.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Considering how thoroughly Midrange Druid &lt;a href=&quot;https://tempostorm.com/hearthstone/meta-snapshot/its-a-long-road-to-the-top&quot;&gt;dominates the meta&lt;/a&gt;, Blizzard will smack down the Ancients and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/forceofnature.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Force of Nature&lt;/span&gt;&lt;/span&gt;
+ + &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/savageroar.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Savage Roar&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Rogue is the other target. This might seem odd given how little Rogue decks have affected the last few months’ meta. From &lt;a href=&quot;http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard&quot;&gt;LiquidHearth&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Basic Rogue cards are seen as slightly too strong. Blizzard is cautious about adding powerful Rogue cards in expansions, since the power level of Rogue Basic cards is already so high. For example, Tinker’s Sharpsword Oil and Tomb Pillager are two of the only significant additions in all of the expansions and adventures for the Rogue class. Look for Basic Rogue cards to be nerfed so that more powerful Rogue cards can be added in future expansions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Curious to see which guesses are right. I’ll update when the news comes out.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://www.kylenazario.com/2016/04/08/hearthstone-standard-nerfs.html</link>
+        <guid isPermaLink="true">http://www.kylenazario.com/2016/04/08/hearthstone-standard-nerfs.html</guid>
+        
+        
+        <category>nerfs,</category>
+        
+        <category>balance,</category>
+        
+        <category>standard,</category>
+        
+        <category>druid</category>
+        
+      </item>
+    
+      <item>
+        <title>How Yogg-Saron, Hope&#39;s End, works</title>
+        <description>&lt;p&gt;Powerful name, powerful randomness.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Battlecry&lt;/strong&gt;: Cast a random spell for each spell you’ve cast this game (targets chosen randomly).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From a nicely detailed explanation on &lt;a href=&quot;https://www.reddit.com/r/hearthstone/comments/4dsca4/a_summary_of_yoggsarons_extra_details_on_how_it/&quot;&gt;/r/hearthstone&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The spells can target any character, including your own hero and your opponent’s hero (&lt;a href=&quot;https://twitter.com/PlayHearthstone/status/718123862127427584&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;If a randomly selected spell has no eligible target, it will “fizzle” (&lt;a href=&quot;https://twitter.com/PlayHearthstone/status/718126188678479872&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Spells won’t trigger Mana Wyrm, Mana Addict, Antonidas, Flamewaker, Gallywix or Lorewalker Cho (&lt;a href=&quot;https://twitter.com/PlayHearthstone/status/718132869109981184&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Spells that require discarding will cause discards (&lt;a href=&quot;https://twitter.com/PlayHearthstone/status/718146133558734849&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Brann will make Yogg-Saron perform its battlecry twice for double the chaos (&lt;a href=&quot;https://twitter.com/PlayHearthstone/status/718130744330207232&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Too random to be competitive, but amazing potential for YouTube highlight videos.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://www.kylenazario.com/2016/04/07/yogg-saron-explanation-hearthstone.html</link>
+        <guid isPermaLink="true">http://www.kylenazario.com/2016/04/07/yogg-saron-explanation-hearthstone.html</guid>
+        
+        
+        <category>yogg,</category>
+        
+        <category>oldgods,</category>
+        
+        <category>wotog,</category>
+        
+        <category>new</category>
+        
+      </item>
+    
+  </channel>
+</rss>

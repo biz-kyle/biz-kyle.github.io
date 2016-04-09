@@ -1,0 +1,117 @@
+---
+layout: page
+outlet: true;
+---
+
+<!-- Loop through paginated posts -->
+{% for post in paginator.posts %}
+{% assign current = post.title %}
+
+<h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+	<!-- Date and section info -->
+	 <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %} | {{ post.categories }}</p>	
+
+	<!-- Pull header image -->
+	{% if post.image != null %}
+		<img style="width: 0px; height: 0px;" src="/blog/assets/{{ post.image }}">
+		{% include image src=post.image style="imgSplash" cap=post.cap %}
+	{% endif %}
+
+	{{ post.content }}
+
+	<!-- Tag post with related content -->
+	<h3>Related posts</h3>
+		<ul>
+			{% include related_posts.html %}
+		</ul>
+
+<hr>
+<br>
+
+{% endfor %}
+
+<br>
+
+<!-- Next and previous page links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a> &nbsp;|&nbsp; 
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+
+  {% if paginator.total_pages < 10 %}
+
+  {% for page in (1..paginator.total_pages) %}
+		{% if page == paginator.page %}
+			<em>{{ page}}</em>
+		{% elsif page == 1 %}
+			<a href="{{ site.url }}/blog/index.html">{{ page }}</a>
+		{% else %}
+			<a href="{{ site.paginate_path | prepend: site.url | replace: '//','/' | replace: ':num', page }}">{{ page }}</a>
+		{% endif %}
+	{% endfor %}
+	{% endif %}
+
+	<!-- Too many page numbers, have to add ellipses -->
+	{% if paginator.total_pages > 9 %}
+
+		{% assign prev = paginator.page | minus:'2' %}
+
+		<!-- First page, if there's a gap -->
+		{% if prev > 1 %}
+			<a href="{{ site.baseurl }}/index.html">1</a>
+			{% if prev > 2 %}
+				<em>...</em>
+			{% endif %}
+		{% endif %}
+
+		<!-- Find page two back -->
+		{% if prev > 0 %}
+			{% if prev == 1 %}
+				<a href="{{ site.baseurl }}/index.html">1</a>
+			{% else %}
+				<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//','/' | replace: ':num', prev }}">{{ prev }}</a>				
+			{% endif %}
+		{% endif %}
+
+		<!-- Find previous page -->
+		{% if paginator.previous_page %}
+			{% if paginator.previous_page == 1 %}
+				<a href="{{ site.baseurl }}/index.html">1</a>
+			{% else %}
+				<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//','/' | replace: ':num', paginator.previous_page }}">{{ paginator.previous_page }}</a>
+			{% endif %}
+		{% endif %}
+
+		<!-- Mark current page -->
+		<em>{{ paginator.page }}</em>
+
+		<!-- Find next page -->
+		{% if paginator.next_page %}
+			<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//','/' | replace: ':num', paginator.next_page }}">{{ paginator.next_page }}</a>
+		{% endif %}
+
+		<!-- Find two pages down -->
+		{% assign next = paginator.page | plus:'2' %}
+		{% if next <= paginator.total_pages %}
+			<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//','/' | replace: ':num', next }}">{{ next }}</a>
+		{% endif %}
+
+		{% assign nextCheck = paginator.total_pages | minus:'1' %}
+		{% if next < nextCheck %}
+			<em>...</em>
+		{% endif %}
+		{% if next < paginator.total_pages %}
+			<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//','/' | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
+		{% endif %}			
+
+	{% endif %}
+</div>

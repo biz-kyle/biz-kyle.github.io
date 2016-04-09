@@ -1,0 +1,14 @@
+---
+layout: page
+title: Highlights
+---
+
+<!-- Loop through paginated posts -->
+{% for post in site.posts %}
+{% if post.hl != null %}
+
+{% include teasers %}
+
+{% endif %}
+{% endfor %}
+
