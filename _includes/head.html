@@ -24,13 +24,13 @@
 	{% if page.image %}
 		<meta name="twitter:image:src" content="{{ site.url }}/blog/assets/{{ page.image }}">
 	{% else %}
-		<meta name="twitter:image:src" content="{{ site.url }}/blog/assets/me.png">
+		<meta name="twitter:image:src" content="{{ site.url }}/blog/assets/bomber.jpg">
 	{% endif %}
 
 	<!-- Facebook Open Graph tags -->
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-	<meta property="og:image" content="{% if page.image %}{{ site.url }}/blog/assets/{{ page.image }}{% else %}{{ site.url }}/blog/assets/me.png{% endif %}">
+	<meta property="og:image" content="{% if page.image %}{{ site.url }}/blog/assets/{{ page.image }}{% else %}{{ site.url }}/blog/assets/bomber.jpg{% endif %}">
 	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta property="og:locale" content="en_us">
@@ -45,7 +45,7 @@
 	<meta name="google-site-verification" content="7BZuK1NLTofVMDEGKKNH363-otClVY9i9DagltvLJRQ" />
   
 	<!-- Google keywords -->
-	<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}kyle nazario, journalist, auburn al, ledger-enquirer, technorms, the plainsman, writer{% endif %}">
+	<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}hearthstone, news, analysis, blog{% endif %}">
 
 	<!-- Title and description -->
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>

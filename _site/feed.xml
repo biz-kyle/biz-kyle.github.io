@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rafaam&#39;s Staff&amp;#58; A Hearthstone Blog</title>
-    <description>I built this website to store my previous work, some of which has vanished since publication. News stories tend not to have an incredibly long lifespan, especially on the internet. This site is a way to preserve my old stories and show my talents to  employers. Please feel free to contact me with any questions.
+    <title>The Maddest Bomber&amp;#58; A Hearthstone Blog</title>
+    <description>Everything you need to know about Hearthstone news. Brought to  you by me, Kyle Nazario. Follow my blog for Hearthstone analysis,  news aggregation and reviews. I produce analysis and content for  people who care about the intricacies of the game.   
 </description>
-    <link>http://www.kylenazario.com/</link>
-    <atom:link href="http://www.kylenazario.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Apr 2016 13:37:24 -0400</pubDate>
-    <lastBuildDate>Sat, 09 Apr 2016 13:37:24 -0400</lastBuildDate>
+    <link>http://www.maddestbomber.com/</link>
+    <atom:link href="http://www.maddestbomber.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 09 Apr 2016 14:30:42 -0400</pubDate>
+    <lastBuildDate>Sat, 09 Apr 2016 14:30:42 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Silence is getting rebalanced</title>
         <description>&lt;p&gt;Silence will likely see significant changes in Standard. Monk, writing in &lt;a href=&quot;http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard&quot;&gt;LiquidHearth&lt;/a&gt;:&lt;/p&gt;
+
+&lt;!--break--&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Blizzard is looking to weaken Silence overall. According to developers, it felt strange when you played a buff deck and it just happens to get countered because you happen to have two Silences innately built into your Druid deck. Extrapolating this could point to cards like Ironbeak Owl and Spellbreaker receiving nerfs.&lt;/p&gt;
@@ -30,8 +32,8 @@
 &lt;p&gt;More granular counters and room for buff decks? Seems like a no-brainer.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://www.kylenazario.com/2016/04/09/silence-rebalance-counter-hearthstone-standard.html</link>
-        <guid isPermaLink="true">http://www.kylenazario.com/2016/04/09/silence-rebalance-counter-hearthstone-standard.html</guid>
+        <link>http://www.maddestbomber.com/2016/04/09/silence-rebalance-counter-hearthstone-standard.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/09/silence-rebalance-counter-hearthstone-standard.html</guid>
         
         
         <category>nerfs,</category>
@@ -47,6 +49,8 @@
       <item>
         <title>What Blizzard might nerf</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://hearthstone.gamepedia.com/Standard_format&quot;&gt;Standard&lt;/a&gt; means new cards and &lt;a href=&quot;http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now&quot;&gt;promised nerfs&lt;/a&gt;. Blizzard won’t say which cards will change to what, but they’ve given some hints. It won’t even say how many, just that it &lt;a href=&quot;http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/&quot;&gt;will be&lt;/a&gt; “less than 20 but definitely more than two.”&lt;/p&gt;
+
+&lt;!--break--&gt;
 
 &lt;p&gt;Some of the most powerful cards in the game like &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/pilotedshredder.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Piloted Shredder&lt;/span&gt;&lt;/span&gt;
  and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/drboom.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Dr. Boom&lt;/span&gt;&lt;/span&gt;
@@ -66,7 +70,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/keeperofthegrove.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Keeper of the Grove&lt;/span&gt;&lt;/span&gt;
- - Keeper is a cheap silence, a mechanic that Blizzard is &lt;a href=&quot;http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard&quot;&gt;looking to fix up&lt;/a&gt;. Easy silences hard counter most buff decks, again limiting possible cards.&lt;/li&gt;
+ - Keeper is a cheap silence, a mechanic that Blizzard is &lt;a href=&quot;/2016/04/09/silence-rebalance-counter-hearthstone-standard.html&quot;&gt;looking to fix up&lt;/a&gt;. Easy silences hard counter most buff decks, again limiting possible cards.&lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ancientoflore.gif&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ancient of Lore&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/li&gt;
@@ -123,8 +127,8 @@
 &lt;p&gt;Curious to see which guesses are right. I’ll update when the news comes out.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://www.kylenazario.com/2016/04/08/hearthstone-standard-nerfs.html</link>
-        <guid isPermaLink="true">http://www.kylenazario.com/2016/04/08/hearthstone-standard-nerfs.html</guid>
+        <link>http://www.maddestbomber.com/2016/04/08/hearthstone-standard-nerfs.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/08/hearthstone-standard-nerfs.html</guid>
         
         
         <category>nerfs,</category>
@@ -140,6 +144,8 @@
       <item>
         <title>How Yogg-Saron, Hope&#39;s End, works</title>
         <description>&lt;p&gt;Powerful name, powerful randomness.&lt;/p&gt;
+
+&lt;!--break--&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Battlecry&lt;/strong&gt;: Cast a random spell for each spell you’ve cast this game (targets chosen randomly).&lt;/p&gt;
@@ -158,8 +164,8 @@
 &lt;p&gt;Too random to be competitive, but amazing potential for YouTube highlight videos.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://www.kylenazario.com/2016/04/07/yogg-saron-explanation-hearthstone.html</link>
-        <guid isPermaLink="true">http://www.kylenazario.com/2016/04/07/yogg-saron-explanation-hearthstone.html</guid>
+        <link>http://www.maddestbomber.com/2016/04/07/yogg-saron-explanation-hearthstone.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/07/yogg-saron-explanation-hearthstone.html</guid>
         
         
         <category>yogg,</category>

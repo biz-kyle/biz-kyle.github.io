@@ -8,6 +8,8 @@ categories: yogg, oldgods, wotog, new
 
 Powerful name, powerful randomness. 
 
+<!--break-->
+
 > **Battlecry**: Cast a random spell for each spell you've cast this game (targets chosen randomly).
 
 From a nicely detailed explanation on [/r/hearthstone](https://www.reddit.com/r/hearthstone/comments/4dsca4/a_summary_of_yoggsarons_extra_details_on_how_it/): 

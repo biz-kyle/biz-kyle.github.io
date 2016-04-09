@@ -95,6 +95,6 @@ sup a:hover {
 	max-width: 500px;
 	z-index: 1;
 }
-.card:hover > .cardimg {
+.card:hover > .cardimg, .card:focus > .cardimg {
 	display: inline;
 }

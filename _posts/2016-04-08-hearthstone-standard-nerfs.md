@@ -7,6 +7,8 @@ categories: nerfs, balance, standard, druid
 
 [Standard](http://hearthstone.gamepedia.com/Standard_format) means new cards and [promised nerfs](http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now). Blizzard won't say which cards will change to what, but they've given some hints. It won't even say how many, just that it [will be](http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/) "less than 20 but definitely more than two."
 
+<!--break-->
+
 Some of the most powerful cards in the game like {% include card src="pilotedshredder.gif" name="Piloted Shredder" %} and {% include card src="drboom.gif" name="Dr. Boom" %} are part of Naxxramas and Goblins vs. Gnomes and will rotate out of the format. They probably won't be changed, which leaves the Classic cards that will stay in Standard.
 
 So which ones will be changed? We can make a reasonable guess if you look at Hearthstone from a game designer's point of view. To Blizzard, powerful cards aren't necessarily problematic. The problem is cards that limit potential future expansions (see this excellent [Extra Credits](https://www.youtube.com/watch?v=M3b3hDvRjJA) video). 
@@ -21,7 +23,7 @@ LiquidHearth [confirmed](http://www.liquidhearth.com/forum/hearthstone/506312-mo
 
 My guesses for Blizzard's hitlist: 
 
-* {% include card src="keeperofthegrove.gif" name="Keeper of the Grove" %} \- Keeper is a cheap silence, a mechanic that Blizzard is [looking to fix up](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard). Easy silences hard counter most buff decks, again limiting possible cards. 
+* {% include card src="keeperofthegrove.gif" name="Keeper of the Grove" %} \- Keeper is a cheap silence, a mechanic that Blizzard is [looking to fix up]({% post_url 2016-04-09-silence-rebalance-counter-hearthstone-standard %}). Easy silences hard counter most buff decks, again limiting possible cards. 
 * {% include card src="ancientoflore.gif" name="Ancient of Lore" %}
 * {% include card src="tirionfordring.gif" name="Tirion Fordring" %}
 * {% include card src="preparation.gif" name="Preparation" %}
