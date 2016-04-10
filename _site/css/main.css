@@ -58,8 +58,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Site header */
 .site-header { border-bottom: 1px solid white; min-height: 56px; position: relative; }
 
-.site-title { font-size: 26px; line-height: 1.2em; letter-spacing: -1px; margin-bottom: 0; float: left; color: white; }
-@media screen and (max-width: 600px) { .site-title { margin-top: 0.5em; margin-bottom: 0.5em; } }
+.site-title { font-size: 26px; line-height: 1.2em; letter-spacing: -1px; margin-bottom: 0; float: left; color: white; margin-top: 0.5em; }
+@media screen and (max-width: 600px) { .site-title { margin-bottom: 0.5em; } }
 
 .site-nav { float: right; line-height: 56px; }
 .site-nav .menu-icon { display: none; }
@@ -97,7 +97,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 #mobileContact { display: none; }
 
 /* Shorter box for side-by-side on desktop */
-@media screen and (max-width: 600px) { .footer-col-3, .footer-col-2 { width: 100%; clear: both; margin-bottom: 0; }
+@media screen and (max-width: 600px) { .footer-col-3, .footer-col-2 { width: 90%; clear: both; margin-bottom: 0; }
   #mobileContact { display: block; margin: 0 -3% 0 -3%; }
   #desktopContact { display: none; }
   #mobileContact ul li { display: inline; padding: 0.2em; } }
@@ -174,8 +174,14 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .footnoting { color: white; font-size: 16.625px; width: 300px; float: left; background: #1a1a1a; padding: 0.8em; border-radius: 5px; }
 @media screen and (max-width: 600px) { .footnoting { font-size: 19px; } }
 
+/* Hide and display card images. Text is marked to show it's interactive and  can be hovered over or tapped if on mobile to display the image. */
+.card { position: relative; text-decoration: underline; color: #639BF1; display: inline; }
+
+.card:hover > .cardimg, .card:active > .cardimg { display: inline; }
+
 /* Force card images to appear within the body */
-@media screen and (max-width: 600px) { .cardimg { margin-left: 0px; left: 0px; } }
+.cardimg { display: none; position: absolute; top: 10px; max-width: 500px; z-index: 1; }
+@media screen and (max-width: 600px) { .cardimg { margin-left: auto; margin-right: auto; max-width: 75%; } }
 
 /** Syntax highlighting styles */
 .highlight { background: #fff; }

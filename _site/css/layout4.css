@@ -79,22 +79,3 @@ sup a:hover {
 .post-title a:hover {
 	text-decoration: underline;
 }
-
-/* Hide and display card images. Text is marked to show it's interactive and 
- * can be hovered over or tapped if on mobile to display the image. */
-.card {
-	position: relative;
-	text-decoration: underline;
-	color: #639BF1;
-	display: inline;
-}
-.card img {
-	display: none;
-	position: absolute;
-	top: 10px;
-	max-width: 500px;
-	z-index: 1;
-}
-.card:hover > .cardimg, .card:active > .cardimg {
-	display: inline;
-}

@@ -17,9 +17,9 @@
     margin-bottom: 0;
     float: left;
 	 color: $brand-color;
+    margin-top: 0.5em;
 
 	 @include media-query($on-palm) {
-		margin-top: 0.5em;
 		margin-bottom: 0.5em;
 	 }
 
@@ -147,6 +147,7 @@
 	 width: 60%;
 	 display: inline-block;
 	 float: left;
+	 //padding-right: $spacing-unit / 2;
 }
 
 #mobileContact {
@@ -156,7 +157,7 @@
 /* Shorter box for side-by-side on desktop */
 @include media-query($on-palm) {
 	.footer-col-3, .footer-col-2 {
-		width: 100%;
+		width: 90%;
 		clear: both;
 		margin-bottom: 0;
 	}

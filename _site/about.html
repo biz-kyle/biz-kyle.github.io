@@ -59,8 +59,8 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 
   <!-- jQuery Import -->
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script async src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script async src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="/blog/assets/favicon.ico">
@@ -150,10 +150,17 @@ function hideDiv() {
 			if ($(this).children(".cardimg").css('display') == 'none') {
 				$(this).children(".cardimg").css('display') = 'inline';
 				}
+			else {
+				$(this).children('.cardimg').css('display') = 'none';
+				}
 		});
 
-		$("p").on("click",function(){
+		$("p, li, ul, blockquote, h1, h2, h3, a").on("click",function(){
 			$(".cardimg").css('display') = 'none';
+		});
+
+		$(".cardimg").on("click",function(){
+			$(this).css('display') = 'none';
 		});
 	});
 
@@ -257,6 +264,9 @@ function hideDiv() {
             </a>
           </td>
           
+  </tr>
+  </table>
+  </div>
 
 		      <div id="mobileContact" class="footer-col  footer-col-2">
         <ul class="social-media-list">
@@ -299,7 +309,6 @@ function hideDiv() {
             </a>
           </li>
           
-
 			 
         </ul>
       </div>

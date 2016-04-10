@@ -59,8 +59,8 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 
   <!-- jQuery Import -->
-  <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script async src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script async src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="/blog/assets/favicon.ico">
@@ -150,10 +150,17 @@ function hideDiv() {
 			if ($(this).children(".cardimg").css('display') == 'none') {
 				$(this).children(".cardimg").css('display') = 'inline';
 				}
+			else {
+				$(this).children('.cardimg').css('display') = 'none';
+				}
 		});
 
-		$("p").on("click",function(){
+		$("p, li, ul, blockquote, h1, h2, h3, a").on("click",function(){
 			$(".cardimg").css('display') = 'none';
+		});
+
+		$(".cardimg").on("click",function(){
+			$(this).css('display') = 'none';
 		});
 	});
 
@@ -558,19 +565,19 @@ included. -->
 
 	
 
-	<p><a href="http://hearthstone.gamepedia.com/Standard_format">Standard</a> means new cards and <a href="http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now">promised nerfs</a>. Blizzard won’t say which cards will change to what, but they’ve given some hints. It won’t even say how many, just that it <a href="http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/">will be</a> “less than 20 but definitely more than two.”</p>
+	<p><a href="http://hearthstone.gamepedia.com/Standard_format">Standard</a> means new cards and <a href="http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now">promised nerfs</a>. Blizzard won’t say which cards will change to what, but they’ve given some hints. They won’t even say how many, just that it <a href="http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/">will be</a> “less than 20 but definitely more than two.”</p>
 
 <!--break-->
 
-<p>Some of the most powerful cards in the game like <span class="card"><img class="cardimg" src="/blog/assets/cards/pilotedshredder.gif" /><span class="cardtext">Piloted Shredder</span></span>
- and <span class="card"><img class="cardimg" src="/blog/assets/cards/drboom.gif" /><span class="cardtext">Dr. Boom</span></span>
+<p>Some of the most powerful cards in the game like <span class="card"><img class="cardimg" src="/blog/assets/cards/pilotedshredder.png" /><span class="cardtext">Piloted Shredder</span></span>
+ and <span class="card"><img class="cardimg" src="/blog/assets/cards/drboom.png" /><span class="cardtext">Dr. Boom</span></span>
  are part of Naxxramas and Goblins vs. Gnomes and will rotate out of the format. They probably won’t be changed, which leaves the Classic cards that will stay in Standard.</p>
 
 <p>So which ones will be changed? We can make a reasonable guess if you look at Hearthstone from a game designer’s point of view. To Blizzard, powerful cards aren’t necessarily problematic. The problem is cards that limit potential future expansions (see this excellent <a href="https://www.youtube.com/watch?v=M3b3hDvRjJA">Extra Credits</a> video).</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3b3hDvRjJA" frameborder="0" allowfullscreen=""></iframe>
 
-<p>For example, Piloted Shredder would be nerfed hard if it weren’t rotating out of Standard. It sees play in most top-tier decks because it’s so powerful. Any future 4-mana minions would either have to be more powerful than Shredder (power creep) or trade well with it (limiting future potential playable minions). That’s a major restriction on any future 4-drops.</p>
+<p>For example, Piloted Shredder would be nerfed hard because of its ubiquity if it weren’t rotating out of Standard. It sees play in most top-tier decks because it’s so powerful. Any future 4-mana minions would either have to be more powerful than Shredder (power creep) or trade well with it (limiting future potential playable minions). That’s a major restriction on any future 4-drops.</p>
 
 <p>Blizzard will likely target “auto-includes,” cards that we would otherwise play forever. This makes sense from a design perspective, since more variety is better for the game than everyone playing Dr. Boom.</p>
 
@@ -579,33 +586,32 @@ included. -->
 <p>My guesses for Blizzard’s hitlist:</p>
 
 <ul>
-  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/keeperofthegrove.gif" /><span class="cardtext">Keeper of the Grove</span></span>
- - Keeper is a cheap silence, a mechanic that Blizzard is <a href="/2016/04/09/silence-rebalance-counter-hearthstone-standard.html">looking to fix up</a>. Easy silences hard counter most buff decks, again limiting possible cards.</li>
+  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/keeperofthegrove.png" /><span class="cardtext">Keeper of the Grove</span></span>
+ - Keeper is a cheap silence and Blizzard <a href="/2016/04/09/silence-rebalance-counter-hearthstone-standard.html">doesn’t like that mechanic</a>. Easy Silences hard counter most buff decks, again limiting possible cards.</li>
   <li>
-    <p><span class="card"><img class="cardimg" src="/blog/assets/cards/ancientoflore.gif" /><span class="cardtext">Ancient of Lore</span></span></p>
+    <p><span class="card"><img class="cardimg" src="/blog/assets/cards/ancientoflore.png" /><span class="cardtext">Ancient of Lore</span></span></p>
   </li>
+  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/tirionfordring.png" /><span class="cardtext">Tirion Fordring</span></span>
+ - Paladin auto-include that will only get stronger as Silence gets weaker.</li>
   <li>
-    <p><span class="card"><img class="cardimg" src="/blog/assets/cards/tirionfordring.gif" /><span class="cardtext">Tirion Fordring</span></span></p>
+    <p><span class="card"><img class="cardimg" src="/blog/assets/cards/preparation.png" /><span class="cardtext">Preparation</span></span></p>
   </li>
-  <li>
-    <p><span class="card"><img class="cardimg" src="/blog/assets/cards/preparation.gif" /><span class="cardtext">Preparation</span></span></p>
-  </li>
-  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/masterofdisguise.gif" /><span class="cardtext">Master of Disguise</span></span>
+  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/masterofdisguise.png" /><span class="cardtext">Master of Disguise</span></span>
  - Giving any minion permanent stealth has incredible game-breaking potential.</li>
-  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/doomguard.gif" /><span class="cardtext">Doomguard</span></span>
+  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/doomguard.png" /><span class="cardtext">Doomguard</span></span>
  - Charge is a problematic mechanic, and Doomguard is too strong with the Warlock hero power.</li>
-  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/ironbeakowl.gif" /><span class="cardtext">Ironbeak Owl</span></span>
- - One of the most common autoincludes and a cheap silence. The Owl is already <a href="http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf">missing from the deck recipes</a>.</li>
-  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/biggamehunter.gif" /><span class="cardtext">Big Game Hunter</span></span>
+  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/ironbeakowl.png" /><span class="cardtext">Ironbeak Owl</span></span>
+ - One of the most common auto-includes and another cheap silence. The Owl is already <a href="http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf">missing from the deck recipes</a>.</li>
+  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/biggamehunter.png" /><span class="cardtext">Big Game Hunter</span></span>
  - Massive limitation on design space. BGH means we only ever play 7+-attack minions that offer some other benefit (e.x. Boom Bots, 8 damage to a random target, a giant that lets you cheat its mana cost).</li>
   <li>The Giants - Require BGH.</li>
   <li>
-    <p><span class="card"><img class="cardimg" src="/blog/assets/cards/alexstrasza.gif" /><span class="cardtext">Alexstrasza</span></span></p>
+    <p><span class="card"><img class="cardimg" src="/blog/assets/cards/alexstrasza.png" /><span class="cardtext">Alexstrasza</span></span></p>
   </li>
-  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/knifejuggler.gif" /><span class="cardtext">Knife Juggler</span></span>
+  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/knifejuggler.png" /><span class="cardtext">Knife Juggler</span></span>
  - The definition of an auto-include for any zoo, aggro or Paladin deck.</li>
-  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/lepergnome.gif" /><span class="cardtext">Leper Gnome</span></span>
- - Another auto-include for any aggro deck.</li>
+  <li><span class="card"><img class="cardimg" src="/blog/assets/cards/lepergnome.png" /><span class="cardtext">Leper Gnome</span></span>
+ - Another must-have for any aggro deck.</li>
 </ul>
 
 <p>Interesting side note on choosing individual card nerfs. <em>PC Gamer</em> <a href="http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/">asked</a> Ben Brode about Knife Juggler getting a smackdown:</p>
@@ -624,8 +630,8 @@ included. -->
   <p>“I will say that in general, when we look at ensuring the Standard format is a dynamically changing environment, I think we have to look at changing the Druid cards,” (Brode) said.<br /><br />“Because so many of the cards in their decks are from the basic sets, kind of unevenly from every other class in the game. All of its power right now stems from the classic sets, so it’s hard for us to make new cards that are more appealing to Druid players than those basic cards. So we’re definitely looking at those.”</p>
 </blockquote>
 
-<p>Considering how thoroughly Midrange Druid <a href="https://tempostorm.com/hearthstone/meta-snapshot/its-a-long-road-to-the-top">dominates the meta</a>, Blizzard will smack down the Ancients and <span class="card"><img class="cardimg" src="/blog/assets/cards/forceofnature.gif" /><span class="cardtext">Force of Nature</span></span>
- + <span class="card"><img class="cardimg" src="/blog/assets/cards/savageroar.gif" /><span class="cardtext">Savage Roar</span></span>
+<p>Considering how thoroughly Midrange Druid <a href="https://tempostorm.com/hearthstone/meta-snapshot/its-a-long-road-to-the-top">dominates the meta</a>, Blizzard will smack down the Ancients and <span class="card"><img class="cardimg" src="/blog/assets/cards/forceofnature.png" /><span class="cardtext">Force of Nature</span></span>
+ + <span class="card"><img class="cardimg" src="/blog/assets/cards/savageroar.png" /><span class="cardtext">Savage Roar</span></span>
 .</p>
 
 <p>Rogue is the other target. This might seem odd given how little Rogue decks have affected the last few months’ meta. From <a href="http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard">LiquidHearth</a>:</p>
@@ -636,7 +642,7 @@ included. -->
 
 <p>Curious to see which guesses are right. I’ll update when the news comes out.</p>
 
-<p><em>Editor’s note: This is a new blog. I want to know what you think! Email me at kylebnazario@gmail.com and tell me how I can improve. Snark welcome.</em></p>
+<p><em>Editor’s note: This is a new blog. I want to know what you think! Email me at kylebnazario@gmail.com and tell what content you want to see, what works and what doesn’t. Snark welcome.</em></p>
 
 
 	<!-- Tag post with related content -->
@@ -1395,6 +1401,9 @@ included. -->
             </a>
           </td>
           
+  </tr>
+  </table>
+  </div>
 
 		      <div id="mobileContact" class="footer-col  footer-col-2">
         <ul class="social-media-list">
@@ -1437,7 +1446,6 @@ included. -->
             </a>
           </li>
           
-
 			 
         </ul>
       </div>
