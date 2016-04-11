@@ -5,7 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
         Everything you need to know about Hearthstone news. Brought to 
         you by me, Kyle Nazario. Follow my blog for Hearthstone analysis, 
         news aggregation and reviews. I produce analysis and content for 
-        people who care about the intricacies of the game.   
+        people who care about the intricacies of the game. I want to
+        hear from you- send me a letter! 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.maddestbomber.com" # the base hostname & protocol for your site
 twitter_username: maddestblog

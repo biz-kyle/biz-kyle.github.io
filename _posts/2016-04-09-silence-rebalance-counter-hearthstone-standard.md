@@ -11,7 +11,7 @@ Silence will likely see significant changes in Standard. Monk, writing in [Liqui
 
 > Blizzard is looking to weaken Silence overall. According to developers, it felt strange when you played a buff deck and it just happens to get countered because you happen to have two Silences innately built into your Druid deck. Extrapolating this could point to cards like Ironbeak Owl and Spellbreaker receiving nerfs.
 
-If we accept Blizzard will change cards based on whether they [limit potential future designs]({% post_url 2016-04-08-hearthstone-standard-nerfs %}), an overall Silence nerf makes sense. Only gimmick decks rely heavily on buffs because everyone plays at least one {% include card src="ironbeakowl.gif" name="Ironbeak Owl" %}. 
+If we accept Blizzard will change cards based on whether they [limit potential future designs]({% post_url 2016-04-08-hearthstone-standard-nerfs %}), an overall Silence nerf makes sense. Only gimmick decks rely heavily on buffs because everyone plays at least one {% include card src="ironbeakowl.png" name="Ironbeak Owl" end="true" %}. 
 
 Brian Kibler presented a [potential alternative](http://www.pcgamer.com/brian-kibler-on-why-silence-is-not-golden-in-hearthstone/) for *PC Gamer* back in October:
 

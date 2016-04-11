@@ -2,7 +2,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; letter-spacing: 0.02em; }
 
 /** Basic styling */
-body { font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif; font-size: 19px; line-height: 1.5; font-weight: 300; color: #cccccc; background-color: #293E6A; -webkit-text-size-adjust: 100%; }
+body { font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; font-size: 19px; line-height: 1.5; font-weight: 300; color: #cccccc; background-color: #293E6A; -webkit-text-size-adjust: 100%; }
 @media screen and (max-width: 600px) { body { font-size: 19px; } }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
@@ -53,7 +53,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #639BF1; }
 
 /* Set teaser titles, body text, to proper sans format */
-.teaserTitle { font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif; }
+.teaserTitle { font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; }
 
 /** Site header */
 .site-header { border-bottom: 1px solid white; min-height: 56px; position: relative; }
@@ -116,7 +116,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif; }
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; }
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
 .post-content { margin-bottom: 30px; }
@@ -175,13 +175,54 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 @media screen and (max-width: 600px) { .footnoting { font-size: 19px; } }
 
 /* Hide and display card images. Text is marked to show it's interactive and  can be hovered over or tapped if on mobile to display the image. */
-.card { position: relative; text-decoration: underline; color: #639BF1; display: inline; }
+.card { position: relative; text-decoration: underline; color: #639BF1; display: inline-block; margin-bottom: 0; }
 
 .card:hover > .cardimg, .card:active > .cardimg { display: inline; }
+
+/* If the next character is not a whitespace. Super hacky workaround but it's
+	Shopify's fault for making a glitchy system that still hasn't been fixed.
+	*/
+.cardend { margin-right: -0.2em; }
 
 /* Force card images to appear within the body */
 .cardimg { display: none; position: absolute; top: 10px; max-width: 500px; z-index: 1; }
 @media screen and (max-width: 600px) { .cardimg { margin-left: auto; margin-right: auto; max-width: 75%; } }
+
+/* Extra CSS for laying out images and YouTube videos */
+.topImg, iframe { display: block; margin-right: auto; margin-bottom: 0%; max-width: 100%; }
+
+.quote { font-size: 2em; text-transform: uppercase; font-style: italic; line-height: 1.5em; }
+
+p { line-height: 1.4em; }
+
+.teaser { display: inline-block; vertical-align: top; }
+
+.blog-name { color: black; }
+
+/* Styling for hover/tap tip */
+.guide { color: white; margin-bottom: 0px; opacity: 0.5; position: absolute; bottom: 15px; left: 15px; background-color: rgba(0, 0, 0, 0.8); }
+
+/* Transformation rules */
+.capbox { padding: 0; overflow: hidden; }
+
+/* Full div images */
+.inline { width: 100%; height: 100%; }
+
+.arrow-icon { display: inline-block; width: 1em; height: 1em; }
+
+/* special link styling for footnotes */
+sup a:hover { color: grey; }
+
+/* Change fonts in body text */
+.post-content { font-family: Georgia, Cambria, "Times New Roman", Times, serif; }
+
+/* Extra spacing between title and date info and content */
+.article-text { margin-top: -.75em; }
+
+/* Fix post titles on homepage */
+.post-title a, .site-title { text-decoration: none; }
+
+.post-title a:hover { text-decoration: underline; }
 
 /** Syntax highlighting styles */
 .highlight { background: #fff; }

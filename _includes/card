@@ -1,1 +1,1 @@
-<span class="card"><img class="cardimg" src="/blog/assets/cards/{{ include.src }}"><span class="cardtext">{{ include.name }}</span></span>
+<span class="card {% if include.end %}cardend{% endif %}"><img class="cardimg" src="/blog/assets/cards/{{ include.src }}" lazyload /><span class="cardtext">{{ include.name }}</span></span>
