@@ -15,7 +15,7 @@ Kripp seems to take his luck in stride, but many don't. There's an unfortunately
 
 Any game that begins with shuffling a deck of cards will always be random. Chance is an inherent part part of the game. 
 
-You're also not entitled to good luck. When you use {% include card src="imp-losion.png" name="Imp-losion" end="true" %}, only one outcome deals four damage. The other two are equally valid and probable. Not every game can be a highlight-worthy stream of luck. 
+You're also not entitled to good luck. When you use {% include card src="imp-losion.png" name="Imp-losion" end="," %} only one outcome deals four damage. The other two are equally valid and probable. Not every game can be a highlight-worthy stream of luck. 
 
 Like Kripp said, you win some and lose some in a game with so much randomness. Accepting that is necessary for enjoying Hearthstone. See Kripp after reincarnating {% include card src="kelthuzad.png" name="Kel'Thuzad" %} (10:57).
 

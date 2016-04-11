@@ -48,7 +48,7 @@ Some entire classes will get a much-deserved power reduction. Steve Watts and Oz
 
 > "I will say that in general, when we look at ensuring the Standard format is a dynamically changing environment, I think we have to look at changing the Druid cards," (Brode) said.<br><br>"Because so many of the cards in their decks are from the basic sets, kind of unevenly from every other class in the game. All of its power right now stems from the classic sets, so it’s hard for us to make new cards that are more appealing to Druid players than those basic cards. So we’re definitely looking at those."
 
-Considering how thoroughly Midrange Druid [dominates the meta](https://tempostorm.com/hearthstone/meta-snapshot/its-a-long-road-to-the-top), Blizzard will smack down the Ancients and {% include card src="forceofnature.png" name="Force of Nature" %} + {% include card src="savageroar.png" name="Savage Roar" %}.
+Considering how thoroughly Midrange Druid [dominates the meta](https://tempostorm.com/hearthstone/meta-snapshot/its-a-long-road-to-the-top), Blizzard will smack down the Ancients and {% include card name="Force of Nature" %} + {% include card name="Savage Roar" end="." %}
 
 Rogue is the other target. This might seem odd given how little Rogue decks have affected the last few months' meta. From [LiquidHearth](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard): 
 

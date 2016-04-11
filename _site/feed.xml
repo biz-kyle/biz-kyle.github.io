@@ -6,9 +6,65 @@
 </description>
     <link>http://www.maddestbomber.com/</link>
     <atom:link href="http://www.maddestbomber.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Apr 2016 11:21:43 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2016 11:21:43 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 18:56:29 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 18:56:29 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Kripparrian on randomness</title>
+        <description>&lt;p&gt;From a &lt;a href=&quot;https://www.youtube.com/watch?v=vpKd6eLIFRs&quot;&gt;recent video&lt;/a&gt; by Kripp showing a game with the “craziest RNG swing ever”:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You get a little bit lucky here, you get a little bit unlucky there. Overall, you kinda flatten out if you average it out. That’s kinda how it works, that’s kinda how it has to work.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vpKd6eLIFRs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Kripp seems to take his luck in stride, but many don’t. There’s an unfortunately common attitude in the Hearthstone community of taking offense to bad luck. &lt;strong&gt;Bad luck is no one’s fault.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Any game that begins with shuffling a deck of cards will always be random. Chance is an inherent part part of the game.&lt;/p&gt;
+
+&lt;p&gt;You’re also not entitled to good luck. When you use &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/imp-losion.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Imp-losion&lt;/span&gt;&lt;/span&gt;,
+ only one outcome deals four damage. The other two are equally valid and probable. Not every game can be a highlight-worthy stream of luck.&lt;/p&gt;
+
+&lt;p&gt;Like Kripp said, you win some and lose some in a game with so much randomness. Accepting that is necessary for enjoying Hearthstone. See Kripp after reincarnating &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/kelthuzad.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Kel’Thuzad&lt;/span&gt;&lt;/span&gt;
+ (10:57).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“At the end of the night, i still had a pretty good time in Hearthstone and it’s quite a blast.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/04/11/hearthstone-always-random.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/11/hearthstone-always-random.html</guid>
+        
+        
+        <category>randomness,</category>
+        
+        <category>gamedesign,</category>
+        
+        <category>theory</category>
+        
+      </item>
+    
+      <item>
+        <title>Funny and Lucky Moments Ep. 157</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LWjXwrCrHpE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One of my favorite episodes in weeks.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/04/11/funny-lucky-moments-157.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/11/funny-lucky-moments-157.html</guid>
+        
+        
+        <category>flm,</category>
+        
+        <category>randomness,</category>
+        
+        <category>highlights</category>
+        
+      </item>
     
       <item>
         <title>Silence is getting rebalanced</title>
@@ -20,8 +76,7 @@
   &lt;p&gt;Blizzard is looking to weaken Silence overall. According to developers, it felt strange when you played a buff deck and it just happens to get countered because you happen to have two Silences innately built into your Druid deck. Extrapolating this could point to cards like Ironbeak Owl and Spellbreaker receiving nerfs.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;If we accept Blizzard will change cards based on whether they &lt;a href=&quot;/2016/04/08/hearthstone-standard-nerfs.html&quot;&gt;limit potential future designs&lt;/a&gt;, an overall Silence nerf makes sense. Only gimmick decks rely heavily on buffs because everyone plays at least one &lt;span class=&quot;card cardend&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ironbeakowl.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;
-.&lt;/p&gt;
+&lt;p&gt;If we accept Blizzard will change cards based on whether they &lt;a href=&quot;/2016/04/08/hearthstone-standard-nerfs.html&quot;&gt;limit potential future designs&lt;/a&gt;, an overall Silence nerf makes sense. Only gimmick decks rely heavily on buffs because everyone plays at least one &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ironbeakowl.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
 
 &lt;p&gt;Brian Kibler presented a &lt;a href=&quot;http://www.pcgamer.com/brian-kibler-on-why-silence-is-not-golden-in-hearthstone/&quot;&gt;potential alternative&lt;/a&gt; for &lt;em&gt;PC Gamer&lt;/em&gt; back in October:&lt;/p&gt;
 
@@ -54,8 +109,8 @@
 
 &lt;!--break--&gt;
 
-&lt;p&gt;Some of the most powerful cards in the game like &lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/pilotedshredder.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Piloted Shredder&lt;/span&gt;&lt;/span&gt;
- and &lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/drboom.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Dr. Boom&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;Some of the most powerful cards in the game like &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/pilotedshredder.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Piloted Shredder&lt;/span&gt;&lt;/span&gt;
+ and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/drboom.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Dr. Boom&lt;/span&gt;&lt;/span&gt;
  are part of Naxxramas and Goblins vs. Gnomes and will rotate out of the format. They probably won’t be changed, which leaves the Classic cards that will stay in Standard.&lt;/p&gt;
 
 &lt;p&gt;So which ones will be changed? We can make a reasonable guess if you look at Hearthstone from a game designer’s point of view. To Blizzard, powerful cards aren’t necessarily problematic. The problem is cards that limit potential future expansions (see this excellent &lt;a href=&quot;https://www.youtube.com/watch?v=M3b3hDvRjJA&quot;&gt;Extra Credits&lt;/a&gt; video).&lt;/p&gt;
@@ -71,31 +126,31 @@
 &lt;p&gt;My guesses for Blizzard’s hitlist:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/keeperofthegrove.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Keeper of the Grove&lt;/span&gt;&lt;/span&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/keeperofthegrove.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Keeper of the Grove&lt;/span&gt;&lt;/span&gt;
  - Keeper is a cheap silence and Blizzard &lt;a href=&quot;/2016/04/09/silence-rebalance-counter-hearthstone-standard.html&quot;&gt;doesn’t like that mechanic&lt;/a&gt;. Easy Silences hard counter most buff decks, again limiting possible cards.&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ancientoflore.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ancient of Lore&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ancientoflore.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ancient of Lore&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/tirionfordring.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Tirion Fordring&lt;/span&gt;&lt;/span&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/tirionfordring.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Tirion Fordring&lt;/span&gt;&lt;/span&gt;
  - Paladin auto-include that will only get stronger as Silence gets weaker.&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/preparation.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Preparation&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/preparation.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Preparation&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/masterofdisguise.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Master of Disguise&lt;/span&gt;&lt;/span&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/masterofdisguise.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Master of Disguise&lt;/span&gt;&lt;/span&gt;
  - Giving any minion permanent stealth has incredible game-breaking potential.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/doomguard.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Doomguard&lt;/span&gt;&lt;/span&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/doomguard.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Doomguard&lt;/span&gt;&lt;/span&gt;
  - Charge is a problematic mechanic, and Doomguard is too strong with the Warlock hero power.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ironbeakowl.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ironbeakowl.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;
  - One of the most common auto-includes and another cheap silence. The Owl is already &lt;a href=&quot;http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf&quot;&gt;missing from the deck recipes&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/biggamehunter.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Big Game Hunter&lt;/span&gt;&lt;/span&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/biggamehunter.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Big Game Hunter&lt;/span&gt;&lt;/span&gt;
  - Massive limitation on design space. BGH means we only ever play 7+-attack minions that offer some other benefit (e.x. Boom Bots, 8 damage to a random target, a giant that lets you cheat its mana cost).&lt;/li&gt;
   &lt;li&gt;The Giants - Require BGH.&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/alexstrasza.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Alexstrasza&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/alexstrasza.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Alexstrasza&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/knifejuggler.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Knife Juggler&lt;/span&gt;&lt;/span&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/knifejuggler.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Knife Juggler&lt;/span&gt;&lt;/span&gt;
  - The definition of an auto-include for any zoo, aggro or Paladin deck.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/lepergnome.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Leper Gnome&lt;/span&gt;&lt;/span&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/lepergnome.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Leper Gnome&lt;/span&gt;&lt;/span&gt;
  - Another must-have for any aggro deck.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -115,9 +170,8 @@
   &lt;p&gt;“I will say that in general, when we look at ensuring the Standard format is a dynamically changing environment, I think we have to look at changing the Druid cards,” (Brode) said.&lt;br /&gt;&lt;br /&gt;“Because so many of the cards in their decks are from the basic sets, kind of unevenly from every other class in the game. All of its power right now stems from the classic sets, so it’s hard for us to make new cards that are more appealing to Druid players than those basic cards. So we’re definitely looking at those.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Considering how thoroughly Midrange Druid &lt;a href=&quot;https://tempostorm.com/hearthstone/meta-snapshot/its-a-long-road-to-the-top&quot;&gt;dominates the meta&lt;/a&gt;, Blizzard will smack down the Ancients and &lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/forceofnature.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Force of Nature&lt;/span&gt;&lt;/span&gt;
- + &lt;span class=&quot;card &quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/savageroar.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Savage Roar&lt;/span&gt;&lt;/span&gt;
-.&lt;/p&gt;
+&lt;p&gt;Considering how thoroughly Midrange Druid &lt;a href=&quot;https://tempostorm.com/hearthstone/meta-snapshot/its-a-long-road-to-the-top&quot;&gt;dominates the meta&lt;/a&gt;, Blizzard will smack down the Ancients and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/forceofnature.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Force of Nature&lt;/span&gt;&lt;/span&gt;
+ + &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/savageroar.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Savage Roar&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
 
 &lt;p&gt;Rogue is the other target. This might seem odd given how little Rogue decks have affected the last few months’ meta. From &lt;a href=&quot;http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard&quot;&gt;LiquidHearth&lt;/a&gt;:&lt;/p&gt;
 

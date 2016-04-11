@@ -1,1 +1,0 @@
-{% if include.src == null %}{% assign filename = "" | append:include.name | downcase | remove:' ' | append:'.png' %}{% endif %}<span class="card"><img class="cardimg" src="/blog/assets/cards/{% if include.src %}{{ include.src }}{% else %}{{ filename }}{% endif %}" lazyload /><span class="cardtext">{{ include.name }}</span></span>{% if include.end %}{{ include.end }}{% endif %}
