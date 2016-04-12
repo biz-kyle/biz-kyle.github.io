@@ -3,6 +3,7 @@ layout: post
 title: Displaying your best rank, not just Standard
 categories: wild, standard, gamedev, news
 keywords: blizzard, standard, hearthstone, wild, rank, friends list
+date: 2016-04-12 10:22:00 -5:00
 ---
 
 Blizzard community manager Keganbe [on the forums](http://us.battle.net/hearthstone/en/forum/topic/20743020458#1): 
