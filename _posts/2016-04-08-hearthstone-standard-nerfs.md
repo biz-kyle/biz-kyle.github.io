@@ -16,27 +16,25 @@ categories: nerfs, balance, standard, druid
 * {% include card src="ironbeakowl.png" name="Ironbeak Owl" %} \- One of the most common auto-includes and another cheap Silence. The Owl is already [missing from the deck recipes](http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf). 
 * {% include card src="biggamehunter.png" name="Big Game Hunter" %} \- Massive limitation on design space. BGH means we only ever play 7+-attack minions that offer some other benefit (e.x. Boom Bots, 8 damage to a random target, a giant that lets you cheat its mana cost).
 * The Giants - Require BGH.
-* {% include card src="alexstrasza.png" name="Alexstrasza" %}
+* {% include card name="Alexstrasza" %}
 * {% include card src="knifejuggler.png" name="Knife Juggler" %} \- The definition of an auto-include for any zoo, aggro, Paladin or Hunter deck.
 * {% include card src="lepergnome.png" name="Leper Gnome" %} \- Another must-have for any aggro deck. 
 
 I picked these cards because they're not cycling out with Goblins vs. Gnomes and Naxxramas (home to traditional powerhouses like {% include card name="Dr. Boom" src="drboom.png" end=")." %}
 
-To Blizzard, powerful cards aren't necessarily problematic. The problem is cards that limit potential future expansions (see this excellent [Extra Credits](https://www.youtube.com/watch?v=M3b3hDvRjJA) video). 
+To Blizzard, powerful cards staying in Standard aren't necessarily problematic. The problem is cards that limit potential future expansions (see this excellent [Extra Credits](https://www.youtube.com/watch?v=M3b3hDvRjJA) video). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3b3hDvRjJA" frameborder="0" allowfullscreen></iframe>
 
 For example, Piloted Shredder would be nerfed hard because of its ubiquity if it weren't rotating out of Standard. It sees play in most top-tier decks because it's so powerful. Any future 4-mana minions would either have to be more powerful than Shredder (power creep) or trade well with it (limiting future potential playable minions).
 
-Blizzard will likely target "auto-includes" like Piloted Shredder to ensure more variety in decks. A complex metagame with lots of different cards in play offers a better experience than everyone playing Dr. Boom. 
+Blizzard will likely target "auto-includes" like Piloted Shredder to ensure more variety in decks. LiquidHearth [confirmed](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard) variety is a focus for Blizzard, saying, "The design team is going to try to avoid cards that can be splashed too easily in every deck." [^1]
 
-LiquidHearth [confirmed](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard) variety is a focus for Blizzard, saying, "The design team is going to try to avoid cards that can be splashed too easily in every deck." 
+[^1]: Interesting side note on individual card nerfs. *PC Gamer* [asked](http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/) Ben Brode about Knife Juggler getting a smackdown:
 
-Interesting side note on individual card nerfs. *PC Gamer* [asked](http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/) Ben Brode about Knife Juggler getting a smackdown:
+	> I’m really interested in hearing the community’s feedback and what they think the problem cards are and... That’s a good note, I appreciate it. [Laughs]
 
-> I’m really interested in hearing the community’s feedback and what they think the problem cards are and... That’s a good note, I appreciate it. [Laughs]
-
-Brode says little but implies players' feelings toward certain cards will affect what gets changed. Considering the community's [feelings toward Knife Juggler in particular](https://www.reddit.com/r/hearthstone/search?q=knife+juggler+nerf&restrict_sr=on&sort=relevance&t=all), a rebalance seems likely. 
+	Brode says little but implies players' feelings toward certain cards will affect what gets changed. Considering the community's [feelings toward Knife Juggler in particular](https://www.reddit.com/r/hearthstone/search?q=knife+juggler+nerf&restrict_sr=on&sort=relevance&t=all), a rebalance seems likely. 
 
 ## Class nerfs
 
