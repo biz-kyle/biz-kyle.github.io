@@ -53,7 +53,7 @@ outlet: true;
 		{% if page == paginator.page %}
 			<em>{{ page}}</em>
 		{% elsif page == 1 %}
-			<a href="{{ site.url }}/blog/index.html">{{ page }}</a>
+			<a href="{{ site.url }}index.html">{{ page }}</a>
 		{% else %}
 			<a href="{{ site.paginate_path | prepend: site.url | replace: '//','/' | replace: ':num', page }}">{{ page }}</a>
 		{% endif %}
