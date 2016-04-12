@@ -5,38 +5,34 @@ image: druidcombo.jpg
 categories: nerfs, balance, standard, druid
 ---
 
-[Standard](http://hearthstone.gamepedia.com/Standard_format) means new cards and [promised nerfs](http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now). Blizzard won't say which cards will change to what, but they've given some hints. They won't even say how many, just that it [will be](http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/) "less than 20 but definitely more than two."
+[Standard](http://hearthstone.gamepedia.com/Standard_format) means new cards and [promised nerfs](http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now). Blizzard won't say which cards will change to what, but they've given some hints. If we think like a game designer, we can guess what's on the hitlist.
 
-<!--break-->
-
-Some of the most powerful cards in the game like {% include card src="pilotedshredder.png" name="Piloted Shredder" %} and {% include card src="drboom.png" name="Dr. Boom" %} are part of Naxxramas and Goblins vs. Gnomes and will rotate out of the format. They probably won't be changed, which leaves the Classic cards that will stay in Standard.
-
-So which ones will be changed? We can make a reasonable guess if you look at Hearthstone from a game designer's point of view. To Blizzard, powerful cards aren't necessarily problematic. The problem is cards that limit potential future expansions (see this excellent [Extra Credits](https://www.youtube.com/watch?v=M3b3hDvRjJA) video). 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M3b3hDvRjJA" frameborder="0" allowfullscreen></iframe>
-
-For example, Piloted Shredder would be nerfed hard because of its ubiquity if it weren't rotating out of Standard. It sees play in most top-tier decks because it's so powerful. Any future 4-mana minions would either have to be more powerful than Shredder (power creep) or trade well with it (limiting future potential playable minions). That's a major restriction on any future 4-drops. 
-
-Blizzard will likely target "auto-includes," cards that we would otherwise play forever. This makes sense from a design perspective, since more variety is better for the game than everyone playing Dr. Boom. 
-
-LiquidHearth [confirmed](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard) variety is a focus for Blizzard, saying, "The design team is going to try to avoid cards that can be splashed too easily in every deck." 
-
-My guesses for Blizzard's hitlist: 
-
-* {% include card src="keeperofthegrove.png" name="Keeper of the Grove" %} \- Keeper is a cheap silence and Blizzard [doesn't like that mechanic]({% post_url 2016-04-09-silence-rebalance-counter-hearthstone-standard %}). Easy Silences hard counter most buff decks, again limiting possible cards. 
+* {% include card src="keeperofthegrove.png" name="Keeper of the Grove" %} \- Keeper is a cheap Silence and Blizzard [doesn't like that mechanic]({% post_url 2016-04-09-silence-rebalance-counter-hearthstone-standard %}). Easy Silences hard counter most buff decks.
 * {% include card src="ancientoflore.png" name="Ancient of Lore" %}
 * {% include card src="tirionfordring.png" name="Tirion Fordring" %} \- Paladin auto-include that will only get stronger as Silence gets weaker. 
 * {% include card src="preparation.png" name="Preparation" %}
-* {% include card src="masterofdisguise.png" name="Master of Disguise" %} \- Giving any minion permanent stealth has incredible game-breaking potential.
+* {% include card src="masterofdisguise.png" name="Master of Disguise" %} \- Giving any minion permanent stealth has incredible game-breaking potential. [Blizzard's worried](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard).
 * {% include card src="doomguard.png" name="Doomguard" %} \- Charge is a problematic mechanic, and Doomguard is too strong with the Warlock hero power.
-* {% include card src="ironbeakowl.png" name="Ironbeak Owl" %} \- One of the most common auto-includes and another cheap silence. The Owl is already [missing from the deck recipes](http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf). 
+* {% include card src="ironbeakowl.png" name="Ironbeak Owl" %} \- One of the most common auto-includes and another cheap Silence. The Owl is already [missing from the deck recipes](http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf). 
 * {% include card src="biggamehunter.png" name="Big Game Hunter" %} \- Massive limitation on design space. BGH means we only ever play 7+-attack minions that offer some other benefit (e.x. Boom Bots, 8 damage to a random target, a giant that lets you cheat its mana cost).
 * The Giants - Require BGH.
 * {% include card src="alexstrasza.png" name="Alexstrasza" %}
-* {% include card src="knifejuggler.png" name="Knife Juggler" %} \- The definition of an auto-include for any zoo, aggro or Paladin deck.
+* {% include card src="knifejuggler.png" name="Knife Juggler" %} \- The definition of an auto-include for any zoo, aggro, Paladin or Hunter deck.
 * {% include card src="lepergnome.png" name="Leper Gnome" %} \- Another must-have for any aggro deck. 
 
-Interesting side note on choosing individual card nerfs. *PC Gamer* [asked](http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/) Ben Brode about Knife Juggler getting a smackdown:
+I picked these cards because they're not cycling out with Goblins vs. Gnomes and Naxxramas (home to traditional powerhouses like {% include card name="Dr. Boom" src="drboom.png" end=")." %}
+
+To Blizzard, powerful cards aren't necessarily problematic. The problem is cards that limit potential future expansions (see this excellent [Extra Credits](https://www.youtube.com/watch?v=M3b3hDvRjJA) video). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3b3hDvRjJA" frameborder="0" allowfullscreen></iframe>
+
+For example, Piloted Shredder would be nerfed hard because of its ubiquity if it weren't rotating out of Standard. It sees play in most top-tier decks because it's so powerful. Any future 4-mana minions would either have to be more powerful than Shredder (power creep) or trade well with it (limiting future potential playable minions).
+
+Blizzard will likely target "auto-includes" like Piloted Shredder to ensure more variety in decks. A complex metagame with lots of different cards in play offers a better experience than everyone playing Dr. Boom. 
+
+LiquidHearth [confirmed](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard) variety is a focus for Blizzard, saying, "The design team is going to try to avoid cards that can be splashed too easily in every deck." 
+
+Interesting side note on individual card nerfs. *PC Gamer* [asked](http://www.pcgamer.com/ben-brode-on-why-standard-hearthstone-has-to-ditch-the-old-card-expansions/2/) Ben Brode about Knife Juggler getting a smackdown:
 
 > I’m really interested in hearing the community’s feedback and what they think the problem cards are and... That’s a good note, I appreciate it. [Laughs]
 
