@@ -6,7 +6,7 @@ cap: Cat dad (not last night)
 categories: day9, streamers, video
 ---
 
-Day[9]'s cat Sheriff was was adorably fascinated by Hearthstone during last night's stream. Cat shows up at 6:20, funny bit starts at 9:24.
+Day[9]'s cat Sheriff was was adorably fascinated by Hearthstone during last night's stream. Cat shows up at 6:20, funny bit starts at 9:23.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QQRdmp0Zero" frameborder="0" allowfullscreen></iframe>
 
