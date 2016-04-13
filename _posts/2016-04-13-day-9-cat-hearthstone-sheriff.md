@@ -3,7 +3,6 @@ layout: post
 title: Bearded Day[9] entertains cat with Hearthstone card
 image: day9cats.png
 categories: day9, streamers, video
-date: 2016-04-13 10:06:00 -8:00
 ---
 
 Day[9]'s cat Sheriff was was adorably fascinated by Hearthstone during last night's stream. Cat shows up at 6:20, funny bit starts at 9:24.

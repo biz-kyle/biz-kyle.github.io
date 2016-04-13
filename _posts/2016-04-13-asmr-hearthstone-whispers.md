@@ -2,7 +2,6 @@
 layout: post
 title: ASMR meets Hearthstone
 categories: other, video
-date: 2016-04-13 10:12:00 -8:00
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GItMojk53vg" frameborder="0" allowfullscreen></iframe>

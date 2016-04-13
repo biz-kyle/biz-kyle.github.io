@@ -2,7 +2,6 @@
 layout: post
 title: Card predictions are a dangerous game
 categories: new, wotog, meta, theory
-date: 2016-04-13 10:00:00 -8:00
 ---
 
 Shevvek, writing for [Esports Hero](https://blog.esportshero.com/getting-card-reviews-right-part-two-beyond-curve/) about why we overlook certain new cards: 
