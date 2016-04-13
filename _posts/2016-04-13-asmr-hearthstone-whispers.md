@@ -2,6 +2,8 @@
 layout: post
 title: ASMR meets Hearthstone
 categories: other, video
+date: 2016-04-13 09:00:00 -5:00
+keywords: asmr, hearthstone, whispers, video
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GItMojk53vg" frameborder="0" allowfullscreen></iframe>

@@ -3,7 +3,7 @@ layout: post
 title: First day hearthstone player opens $1100 in packs
 categories: packs, highlights, video
 keywords: hearthstone, packs, opening, video, highlights, money, free to play
-date: 2016-04-13 10:54:00 0:00
+date: 2016-04-13 10:54:00 -5:00
 ---
 
 No one deserves to get Tirion on their first day. 
