@@ -2,6 +2,7 @@
 layout: post
 title: Bearded Day[9] entertains cat with Hearthstone card
 image: day9cats.png
+cap: Cat dad (not last night)
 categories: day9, streamers, video
 ---
 
