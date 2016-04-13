@@ -5,7 +5,7 @@ image: day9cats.png
 cap: Cat dad (not last night)
 categories: day9, streamers, video
 keywords: day9, sean plott, cat dad, adorable
-date: 2016-04-13 10:50:00 -5:00
+date: 2016-04-13 10:50:00 0:00
 ---
 
 Day[9]'s cat Sheriff was was adorably fascinated by Hearthstone during last night's stream. Cat shows up at 6:20, funny bit starts at 9:23.

@@ -2,7 +2,7 @@
 layout: post
 title: ASMR meets Hearthstone
 categories: other, video
-date: 2016-04-13 09:00:00 -5:00
+date: 2016-04-13 09:00:00 0:00
 keywords: asmr, hearthstone, whispers, video
 ---
 
