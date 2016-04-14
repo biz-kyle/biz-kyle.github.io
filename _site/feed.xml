@@ -6,9 +6,69 @@
 </description>
     <link>http://www.maddestbomber.com/</link>
     <atom:link href="http://www.maddestbomber.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Apr 2016 10:43:54 -0400</pubDate>
-    <lastBuildDate>Wed, 13 Apr 2016 10:43:54 -0400</lastBuildDate>
+    <pubDate>Thu, 14 Apr 2016 15:23:35 -0400</pubDate>
+    <lastBuildDate>Thu, 14 Apr 2016 15:23:35 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Deathwing and Embracing a Shadowcaster</title>
+        <description>&lt;p&gt;For anyone who thought Blizzard would give us only bad cards, here are two that could be playable.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/deathwingdragonlord.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Deathwing, Dragonlord&lt;/span&gt;&lt;/span&gt;
+ is &lt;a href=&quot;https://www.youtube.com/watch?v=xgKusQzgpH8&quot;&gt;Kibler’s reveal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xgKusQzgpH8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;From the video:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Frankly, this is exactly the kind of ability a big 10-mana minion ought to have. Even if your opponent kills it, you feel like you’ve gotten super paid off because you’ve gotten this huge effect of dumping all of your dragons in play.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Kibler points out that this is a huge threat that still delivers after being hit by &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/biggamehunter.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Big Game Hunter&lt;/span&gt;&lt;/span&gt;,
+ making it earn more of the 10-mana cost.&lt;/p&gt;
+
+&lt;p&gt;I’m skeptical on this one. Dragon decks have never lacked high-cost threats. 10 mana on one card without Taunt seems too large a tempo loss. Besides, how many dragons will you have in your hand at turn 10 or 11? The whole point of dragon decks is keeping tempo and playing powerful minions on curve.&lt;/p&gt;
+
+&lt;p&gt;I also wouldn’t want to lose every dragon in my hand and be unable to activate &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/blackwingcorruptor.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Blackwing Corruptor&lt;/span&gt;&lt;/span&gt;
+ or &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/twilightguardian.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Twilight Guardian&lt;/span&gt;&lt;/span&gt;,
+ the latter of which would also be pulled from your hand without activating its battlecry.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, if your opponent cannot rush past Deathwing and burst you down, this seems almost impossible to deal with.&lt;/p&gt;
+
+&lt;h2 id=&quot;shadowpriest-viable&quot;&gt;Shadowpriest viable?&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/embracetheshadow.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Embrace the Shadow&lt;/span&gt;&lt;/span&gt;
+ received little love from the community on release. In theory, &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/auchenaisoulpriest.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Auchenai Soulpriest&lt;/span&gt;&lt;/span&gt;
+ is better because its effect lasts more than one turn and provides a body on the board. In practice, I’ve found it suffers the same problem as &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/knifejuggler.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Knife Juggler&lt;/span&gt;&lt;/span&gt;
+ in that it’s so good your opponent will almost always kill it the next turn.&lt;/p&gt;
+
+&lt;p&gt;This puts Embrace the Shadow, which lets you use &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/circleofhealing.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Circle of Healing&lt;/span&gt;&lt;/span&gt;
+ one turn sooner, ahead of Auchenai. If nothing else, it’ll allow some crazy combo decks with &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/flashheal.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Flash Heal&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;rogue-nerf-incoming&quot;&gt;Rogue nerf incoming?&lt;/h2&gt;
+
+&lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/shadowcaster.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Shadowcaster&lt;/span&gt;&lt;/span&gt;
+ is a rare powerful Rogue card. My first thought seeing this is of course grabbing a 1/1 copy of my &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ysera.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ysera&lt;/span&gt;&lt;/span&gt;.
+ Can’t wait to see how people use this card in combo decks.&lt;/p&gt;
+
+&lt;p&gt;Shadowcaster also tells us some about where the game is going. Cards like it and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/heraldvolazj.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Herald Volazj&lt;/span&gt;&lt;/span&gt;
+ that make 1/1 copies are cards you run to duplicate the effects on the targeted cards. These effects, of course, are vulnerable to Silence. Consider this more proof &lt;a href=&quot;/2016/04/09/silence-rebalance-counter-hearthstone-standard.html&quot;&gt;Blizzard is nerfing Silence&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s also a powerful Rogue card, something Blizzard has been very careful not to print because the basic Rogue cards are so strong. Rogues, consider this another sign &lt;a href=&quot;/2016/04/09/silence-rebalance-counter-hearthstone-standard.html&quot;&gt;your class will be nerfed&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Apr 2016 14:48:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/04/14/deathwing-dragonlord-embrace-shadowcaster.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/14/deathwing-dragonlord-embrace-shadowcaster.html</guid>
+        
+        
+        <category>new,</category>
+        
+        <category>wotog,</category>
+        
+        <category>cards</category>
+        
+      </item>
     
       <item>
         <title>Card predictions are a dangerous game</title>
@@ -22,7 +82,7 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W0_N1XdODuY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Wed, 13 Apr 2016 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 13 Apr 2016 11:03:00 -0400</pubDate>
         <link>http://www.maddestbomber.com/2016/04/13/whispers-old-gods-card-predictions.html</link>
         <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/13/whispers-old-gods-card-predictions.html</guid>
         
@@ -38,8 +98,27 @@
       </item>
     
       <item>
+        <title>First day hearthstone player opens $1100 in packs</title>
+        <description>&lt;p&gt;No one deserves to get Tirion on their first day.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LNvUd_Cr5iA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 13 Apr 2016 10:54:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/04/13/new-player-opening-packs.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/13/new-player-opening-packs.html</guid>
+        
+        
+        <category>packs,</category>
+        
+        <category>highlights,</category>
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
         <title>Bearded Day[9] entertains cat with Hearthstone card</title>
-        <description>&lt;p&gt;Day[9]’s cat Sheriff was was adorably fascinated by Hearthstone during last night’s stream. Cat shows up at 6:20, funny bit starts at 9:24.&lt;/p&gt;
+        <description>&lt;p&gt;Day[9]’s cat Sheriff was was adorably fascinated by Hearthstone during last night’s stream. Cat shows up at 6:20, funny bit starts at 9:23.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QQRdmp0Zero&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -47,7 +126,7 @@
 
 &lt;p&gt;&lt;em&gt;(&lt;a href=&quot;https://www.reddit.com/r/mylittleandysonic1/comments/32j8j6/day9_lord_of_cats/&quot;&gt;image source&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Apr 2016 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 13 Apr 2016 10:50:00 -0400</pubDate>
         <link>http://www.maddestbomber.com/2016/04/13/day-9-cat-hearthstone-sheriff.html</link>
         <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/13/day-9-cat-hearthstone-sheriff.html</guid>
         
@@ -66,7 +145,7 @@
 
 &lt;p&gt;YouTube has something for everyone, even people with &lt;a href=&quot;https://www.washingtonpost.com/lifestyle/style/a-whisper-then-tingles-then-87-million-youtube-views-meet-the-star-of-asmr/2014/12/12/0c85d54a-7b33-11e4-b821-503cc7efed9e_story.html&quot;&gt;ASMR&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Apr 2016 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 13 Apr 2016 09:00:00 -0400</pubDate>
         <link>http://www.maddestbomber.com/2016/04/13/asmr-hearthstone-whispers.html</link>
         <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/13/asmr-hearthstone-whispers.html</guid>
         
@@ -192,62 +271,6 @@
         <category>gamedesign,</category>
         
         <category>theory</category>
-        
-      </item>
-    
-      <item>
-        <title>Funny and Lucky Moments Ep. 157</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LWjXwrCrHpE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;One of my favorite episodes in weeks.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/04/11/funny-lucky-moments-157.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/11/funny-lucky-moments-157.html</guid>
-        
-        
-        <category>flm,</category>
-        
-        <category>randomness,</category>
-        
-        <category>highlights</category>
-        
-      </item>
-    
-      <item>
-        <title>Silence is getting rebalanced</title>
-        <description>&lt;p&gt;Silence will likely see significant changes in Standard. Monk, writing in &lt;a href=&quot;http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard&quot;&gt;LiquidHearth&lt;/a&gt;:&lt;/p&gt;
-
-&lt;!--break--&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Blizzard is looking to weaken Silence overall. According to developers, it felt strange when you played a buff deck and it just happens to get countered because you happen to have two Silences innately built into your Druid deck. Extrapolating this could point to cards like Ironbeak Owl and Spellbreaker receiving nerfs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If we accept Blizzard will change cards based on whether they &lt;a href=&quot;/2016/04/08/hearthstone-standard-nerfs.html&quot;&gt;limit potential future designs&lt;/a&gt;, an overall Silence nerf makes sense. Only gimmick decks rely heavily on buffs because everyone plays at least one &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ironbeakowl.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Brian Kibler presented a &lt;a href=&quot;http://www.pcgamer.com/brian-kibler-on-why-silence-is-not-golden-in-hearthstone/&quot;&gt;potential alternative&lt;/a&gt; for &lt;em&gt;PC Gamer&lt;/em&gt; back in October:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It is important for players to feel like they have the ability to interfere with what their opponents are trying to do outside of having to outright kill every minion that gets played. […] &lt;br /&gt;&lt;br /&gt;Right now, lots of decks play Silence effects, but for wildly different reasons. I’d like to see cards that directly address individual abilities, so that players who are specifically looking to deal with those categories of cards have more options.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;More granular counters and room for buff decks? Seems like a no-brainer.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Editor’s note: This is a new blog. I want to know what you think! Email me at kylebnazario@gmail.com and tell me how I can improve. Snark welcome.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/04/09/silence-rebalance-counter-hearthstone-standard.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/09/silence-rebalance-counter-hearthstone-standard.html</guid>
-        
-        
-        <category>nerfs,</category>
-        
-        <category>balance,</category>
-        
-        <category>standard,</category>
-        
-        <category>silence</category>
         
       </item>
     
