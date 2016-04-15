@@ -11,4 +11,4 @@ Shevvek, writing for [Esports Hero](https://blog.esportshero.com/getting-card-re
 
 Considering no one predicted [classic Grim Patron Warrior](http://www.icy-veins.com/hearthstone/season-19-legendary-grim-patron-warrior-brm-deck), the strongest deck to ever exist in Hearthstone, take pre-release predictions with a massive grain of salt. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W0_N1XdODuY" frameborder="0" allowfullscreen></iframe>
+<iframe style="width: 100%;" height="315" src="https://www.youtube.com/embed/W0_N1XdODuY" frameborder="0" allowfullscreen></iframe>
