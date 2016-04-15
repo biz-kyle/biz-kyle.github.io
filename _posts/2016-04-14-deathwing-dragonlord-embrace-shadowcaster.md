@@ -42,3 +42,4 @@ It's also a powerful Rogue card, something Blizzard has been very careful not to
 
 * {% include card name="Faceless Summoner" %} \- Phenomenal card that doesn't fit any known Mage decks. 
 * {% include card name="Servant of Yogg-Saron" %} \- Too inconsistent for constructed.
+* {% include card name="Forlorn Stalker" %} \- Looks fantastic for my Midrange Hunter deck. 
