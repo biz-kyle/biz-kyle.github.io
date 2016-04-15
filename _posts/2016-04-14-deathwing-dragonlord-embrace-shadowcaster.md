@@ -37,3 +37,8 @@ This puts Embrace the Shadow, which lets you use {% include card name="Circle of
 Shadowcaster also tells us some about where the game is going. Cards like it and {% include card name="Herald Volazj" %} that make 1/1 copies are cards you run to duplicate the effects on the targeted cards. These effects, of course, are vulnerable to Silence. Consider this more proof [Blizzard is nerfing Silence]({% post_url 2016-04-09-silence-rebalance-counter-hearthstone-standard %}).
 
 It's also a powerful Rogue card, something Blizzard has been very careful not to print because the basic Rogue cards are so strong. Rogues, consider this another sign [your class will be nerfed]({% post_url 2016-04-09-silence-rebalance-counter-hearthstone-standard %}).
+
+## Other cards
+
+* {% include card name="Faceless Summoner" %} \- Phenomenal card that doesn't fit any known Mage decks. 
+* {% include card name="Servant of Yogg-Saron" %} \- Too inconsistent for constructed.
