@@ -10,7 +10,7 @@ For anyone who thought Blizzard would give us only bad cards, here are two that 
 
 {% include card src="deathwingdragonlord.png" name="Deathwing, Dragonlord" %} is [Kibler's reveal](https://www.youtube.com/watch?v=xgKusQzgpH8). 
 
-<iframe style="width: 75%;" height="315" src="https://www.youtube.com/embed/xgKusQzgpH8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" style="max-width: 100%;" height="315" src="https://www.youtube.com/embed/xgKusQzgpH8" frameborder="0" allowfullscreen></iframe>
 
 From the video: 
 
