@@ -148,12 +148,9 @@ function hideDiv() {
 			if ($(this).children(".cardimg").css('display') == 'none') {
 				$(this).children(".cardimg").css('display') = 'inline';
 				}
-			else {
-				$(this).children('.cardimg').css('display') = 'none';
-				}
 		});
 
-		$("p, li, ul, blockquote, h1, h2, h3, a").on("click",function(){
+		$("p, li, ul").on("click",function(){
 			$(".cardimg").css('display') = 'none';
 		});
 	});
@@ -173,6 +170,20 @@ function hideDiv() {
 
   <article class="post-content">
     <!-- Loop through paginated posts -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
