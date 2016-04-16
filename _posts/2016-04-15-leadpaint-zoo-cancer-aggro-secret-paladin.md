@@ -2,7 +2,7 @@
 layout: post
 title: Leadpaint&#58; 'Zoo is the best deck in the game'
 image: leadpaintdecks.jpg
-cap: The three decks Leadpaint took to a recent ONOG Open
+cap: The three decks Leadpaint took to a recent ONOG Open.
 categories: tournaments, meta, theory
 date: 2016-04-15 10:52:00 0:00
 ---
