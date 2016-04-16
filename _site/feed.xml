@@ -6,9 +6,36 @@
 </description>
     <link>http://www.maddestbomber.com/</link>
     <atom:link href="http://www.maddestbomber.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Apr 2016 17:52:08 -0400</pubDate>
-    <lastBuildDate>Sat, 16 Apr 2016 17:52:08 -0400</lastBuildDate>
+    <pubDate>Sat, 16 Apr 2016 18:01:37 -0400</pubDate>
+    <lastBuildDate>Sat, 16 Apr 2016 18:01:37 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Arena has no hidden matchmaker ranking</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.icy-veins.com/forums/topic/20151-hearthstones-ben-brode-clarifies-that-there-is-no-mmr-in-arena/&quot;&gt;Icy Veins&lt;/a&gt;, recapping Ben Brode’s interview with &lt;a href=&quot;https://www.twitch.tv/itshafu&quot;&gt;Hafu&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For months, the Arena community has wondered if there was a hidden Matchmaker Rating (MMR) in Arena that pairs not only players on similar scores, but also players of similar skill. Lead Game Designer, Ben Brode, joined Hafu on her stream to clear up the matter once and for all. He was also asked about some other smaller things.&lt;br /&gt;&lt;br /&gt;The key point made, was that Matchmaking only looks at win-loss records when pairing players in Arena. The only exception is made for “brand new players”, who are treated as if they have one more loss than they actually have, and will be matched with other new players if possible. The exact numbers are still being tweaked, but this lasts for your first “two or three runs” on a new account.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Amazing how much we don’t know about the inner workings of this game.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Apr 2016 05:59:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/04/16/hafu-ben-brode-arena-interview-mmr.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/16/hafu-ben-brode-arena-interview-mmr.html</guid>
+        
+        
+        <category>arena,</category>
+        
+        <category>hafu,</category>
+        
+        <category>streamers,</category>
+        
+        <category>benbrode,</category>
+        
+        <category>gamedev</category>
+        
+      </item>
     
       <item>
         <title>Why sticky minions are important</title>
@@ -312,25 +339,6 @@ Deathrattle: Summon a 5/5 Faceless Destroyer&lt;/p&gt;
         <category>meta,</category>
         
         <category>theory</category>
-        
-      </item>
-    
-      <item>
-        <title>First day hearthstone player opens $1100 in packs</title>
-        <description>&lt;p&gt;No one deserves to get Tirion on their first day.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LNvUd_Cr5iA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Wed, 13 Apr 2016 10:54:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/04/13/new-player-opening-packs.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/13/new-player-opening-packs.html</guid>
-        
-        
-        <category>packs,</category>
-        
-        <category>highlights,</category>
-        
-        <category>video</category>
         
       </item>
     
