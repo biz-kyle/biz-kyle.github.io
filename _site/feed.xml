@@ -6,9 +6,169 @@
 </description>
     <link>http://www.maddestbomber.com/</link>
     <atom:link href="http://www.maddestbomber.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 20:13:28 -0400</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 20:13:28 -0400</lastBuildDate>
+    <pubDate>Wed, 20 Apr 2016 18:36:53 -0400</pubDate>
+    <lastBuildDate>Wed, 20 Apr 2016 18:36:53 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Sorry, Druid&amp;#58; Nerfs announced</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://us.battle.net/hearthstone/en/blog/20097355/&quot;&gt;Finally&lt;/a&gt; (old images used in previews):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ancientoflore.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ancient of Lore&lt;/span&gt;&lt;/span&gt;
+ - Draws 1 card instead of 2.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/forceofnature.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Force of Nature&lt;/span&gt;&lt;/span&gt;
+ - 5 mana, summons three 2/2 Treants that don’t die and do not have charge. Was 6 mana.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/keeperofthegrove.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Keeper of the Grove&lt;/span&gt;&lt;/span&gt;
+ - 2/2 instead of 2/4.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/biggamehunter.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Big Game Hunter&lt;/span&gt;&lt;/span&gt;
+ - 5 mana instead of 3.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/knifejuggler.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Knife Juggler&lt;/span&gt;&lt;/span&gt;
+ - 2/2 instead of 3/2.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/ironbeakowl.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;
+ - 3 mana instead of 2.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/lepergnome.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Leper Gnome&lt;/span&gt;&lt;/span&gt;
+ - 1/1 instead of 2/1.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/huntersmark.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Hunter’s Mark&lt;/span&gt;&lt;/span&gt;
+ - Costs 1 mana, was 2.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/bladeflurry.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Blade Flurry&lt;/span&gt;&lt;/span&gt;
+ - Costs 4 mana, was 2, and no longer damages your opponent’s face.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/arcanegolem.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Arcane Golem&lt;/span&gt;&lt;/span&gt;
+ - 4/4 with no Charge instead of a 4/2 with Charge.&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/moltengiant.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Molten Giant&lt;/span&gt;&lt;/span&gt;
+ - Costs 25 mana instead of 20. &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/masterofdisguise.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Master of Disguise&lt;/span&gt;&lt;/span&gt;
+ - Grants stealth only until the next turn, not permanently.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;die-druid-combo-die&quot;&gt;Die, Druid combo, die&lt;/h2&gt;
+
+&lt;!-- Imports an image and styles it properly, with caption if 
+included. --&gt;
+
+&lt;div class=&quot;imgSplash &quot; style=&quot;overflow: hidden;&quot;&gt;
+	&lt;img class=&quot;inline &quot; src=&quot;/blog/assets/forcenerf.gif&quot; alt=&quot;&quot; /&gt;
+	
+		&lt;div class=&quot;cap&quot;&gt;
+			&lt;p&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	
+	
+		
+	
+&lt;/div&gt;
+
+&lt;p&gt;The best news out of this day is the much-needed death of the Druid combo. Force of Nature + &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/savageroar.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Savage Roar&lt;/span&gt;&lt;/span&gt;
+ to deal 14 damage from an empty board (not counting any other minions) was absurdly overpowered.&lt;/p&gt;
+
+&lt;p&gt;What interests me most is that Force of Nature is still an alright card that could work in &lt;a href=&quot;http://www.hearthpwn.com/decks/308819-tgt-wings-legendary-token-druid&quot;&gt;Token Druid&lt;/a&gt; decks.&lt;/p&gt;
+
+&lt;h2 id=&quot;no-more-auto-includes&quot;&gt;No more auto-includes&lt;/h2&gt;
+
+&lt;p&gt;Almost everything on this list is &lt;a href=&quot;/2016/04/08/hearthstone-standard-nerfs.html&quot;&gt;what I guessed would be nerfed&lt;/a&gt;. Blizzard used exactly the logic I predicted (which wasn’t much of a prediction given that they directly told us their logic ahead of time).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Strong, widely-played neutral cards can stifle deck-building decisions and homogenize decks. These cards also make it more difficult to create new cards that can compete with them. We’re adjusting these neutral cards so that other cards can become compelling replacements, and open the door for more of a deck’s power to come from its Class identity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is exactly what I was talking about. Blizzard wants to make a game with lots of different decks and varied gameplay because that’s more interesting than one where everyone plays Knife Juggler, &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/drboom.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Dr. Boom&lt;/span&gt;&lt;/span&gt;
+ and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/pilotedshredder.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Piloted Shredder&lt;/span&gt;&lt;/span&gt;.
+ They targeted the cards that were so good you couldn’t not play them. Knife Juggler and Leper Gnome are the poster children of that category.&lt;/p&gt;
+
+&lt;h2 id=&quot;nerfing-counters&quot;&gt;Nerfing counters&lt;/h2&gt;
+
+&lt;!-- Imports an image and styles it properly, with caption if 
+included. --&gt;
+
+&lt;div class=&quot;imgSplash &quot; style=&quot;overflow: hidden;&quot;&gt;
+	&lt;img class=&quot;inline &quot; src=&quot;/blog/assets/keepernerf.gif&quot; alt=&quot;&quot; /&gt;
+	
+		&lt;div class=&quot;cap&quot;&gt;
+			&lt;p&gt;&lt;/p&gt;
+		&lt;/div&gt;
+	
+	
+		
+	
+&lt;/div&gt;
+
+&lt;p&gt;While Blizzard did not remove Silence from the game, it did make some of the most common silencing minions more costly to play. A pricier Ironbeak Owl will still probably see play, but not as much and it won’t be as powerful.&lt;/p&gt;
+
+&lt;p&gt;Keeper of the Grove also took a gigantic nerf. 2/2 is brutal and will relegate it to tech card status instead of Druid mainstay.&lt;/p&gt;
+
+&lt;p&gt;I was right about &lt;a href=&quot;/2016/04/09/silence-rebalance-counter-hearthstone-standard.html&quot;&gt;Blizzard wanting to nerf Silence&lt;/a&gt;, but I did not predict the manner in which it would do so. The mechanic will remain in the game, but it’ll cost you more.&lt;/p&gt;
+
+&lt;p&gt;That seems to be the trend across the board. Big Game Hunter’s new 5-mana cost is a hard slap to make class-specific removal actually competitive with him. I’ll still play BGH in Wild where Dr. Boom lives eternal, but in Standard? Maybe it’s time to bring back &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/naturalize.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Naturalize&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;I suspect Blizzard brought the hammer down on Hunter’s Mark not because it was overpowered in the current meta, but because it would be in one where BGH cost 5 mana.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rogue-gets-a-slight-nerf&quot;&gt;Rogue gets a slight nerf&lt;/h2&gt;
+
+&lt;p&gt;Blizzard picked an interesting card to nerf with Blade Flurry. I thought it would be &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/preparation.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Preparation&lt;/span&gt;&lt;/span&gt;,
+ one of the staples of every deck. But their logic was much stronger:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Blade Flurry is a problem because it enables both board clear and heavy burst damage.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2 mana to essentially double your weapon damage was always where &lt;a href=&quot;http://www.icy-veins.com/hearthstone/oil-rogue-deck&quot;&gt;Oil Rogue&lt;/a&gt; was strongest. Having that in the game would mean any substantive weapon upgrades would have to be looked at carefully.&lt;/p&gt;
+
+&lt;p&gt;It also means Rogue’s last competitive deck is out of the meta until we see it get good cards again. &lt;a href=&quot;http://www.hearthpwn.com/decks/376635-top-5-legend-raptor-rogue&quot;&gt;Raptor Rogue&lt;/a&gt; is decent but it’s not dominated the meta the way Oil used to.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-ones-that-escaped&quot;&gt;The ones that escaped&lt;/h2&gt;
+
+&lt;p&gt;Cards that I or others thought would be nerfed, but were not:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/alexstrasza.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Alexstrasza&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/preparation.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Preparation&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/doomguard.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Doomguard&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/tirionfordring.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Tirion Fordring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m surprised that &lt;a href=&quot;http://www.icy-veins.com/hearthstone/legendary-mage-freeze-loe-deck&quot;&gt;Freeze Mage&lt;/a&gt; made it out alive when it thrives on uninteractive freezing and damage from hand combos. Maybe Blizz internal stats say it won’t be a problem after losing &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/madscientist.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Mad Scientist&lt;/span&gt;&lt;/span&gt;
+ and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/antiquehealbot.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Antique Healbot&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Doomguard guess was half-right (Blizzard doesn’t like powerful Charge minions) but missed the important part. Doomguard is okay and Arcane Golem is not because the latter is a cheaper neutral minion that can be spliced into any wonky OTK deck.&lt;/p&gt;
+
+&lt;p&gt;Tirion, I assume, made it out safe because he is a class card. He’s also not what makes Paladin so good in the current pre-Whispers meta; that honor belongs to &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/mysteriouschallenger.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Mysterious Challenger&lt;/span&gt;&lt;/span&gt;,
+ &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/shieldedminibot.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Shielded Minibot&lt;/span&gt;&lt;/span&gt;
+ and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/musterforbattle.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Muster for Battle&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Blizzard says the changes will launch with Hearthstone 5.0. Can’t wait to see the new meta!&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Slightly sad about this one, I liked Handlock. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Related note, the owl and mark nerfs are brutal for Face Hunter. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 20 Apr 2016 17:38:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/04/20/nerf-standard-druid-combo-knife-juggler.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/20/nerf-standard-druid-combo-knife-juggler.html</guid>
+        
+        
+        <category>nerfs,</category>
+        
+        <category>balance,</category>
+        
+        <category>standard,</category>
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>New legendaries revealed</title>
@@ -335,33 +495,6 @@ Deathrattle: Summon a 5/5 Faceless Destroyer&lt;/p&gt;
         <category>othergames,</category>
         
         <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>New Mage hero Khadgar launches on iOS</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.icy-veins.com/forums/user/28899-zadina/&quot;&gt;Zadinaa&lt;/a&gt;, writing for &lt;a href=&quot;http://www.icy-veins.com/forums/topic/20121-hearthstone-new-mage-hero-khadgar-lore-controversy-and-issues/&quot;&gt;Icy Veins&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;iPhone and iPad users noticed a new Hearthstone update, which will bring yet another Mage hero to the game: Khadgar! Khadgar is significantly cheaper ($4.99 / € 4.99 / £3.99) than the other purchasable hero skins and all the proceed will go to World Wildlife Fund (WWF). The offer stands until April 24 and is only available to iOS users.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Careful before buying. As noted on &lt;a href=&quot;https://www.reddit.com/r/hearthstone/comments/4er8jl/khadgar_is_being_added_to_ios/&quot;&gt;reddit&lt;/a&gt;, you can’t log in on PC or Mac after buying Khadgar.&lt;/p&gt;
-
-&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/332gh&quot;&gt;&lt;a href=&quot;//imgur.com/a/332gh&quot;&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Thu, 14 Apr 2016 08:15:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/04/14/khadgar-mage-hero-skin.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/14/khadgar-mage-hero-skin.html</guid>
-        
-        
-        <category>heroskins,</category>
-        
-        <category>mobile,</category>
-        
-        <category>store</category>
         
       </item>
     

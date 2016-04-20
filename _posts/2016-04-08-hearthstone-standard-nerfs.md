@@ -50,4 +50,4 @@ Rogue is the other target. This might seem odd given how little Rogue decks have
 
 Curious to see which guesses are right. I'll update when the news comes out. 
 
-*Editor's note: This is a new blog. I want to know what you think! Email me at kylebnazario@gmail.com and tell what content you want to see, what works and what doesn't. Snark welcome.*
+*Update: [Nerfs announced]({% post_url 2016-04-20-nerf-standard-druid-combo-knife-juggler %})*
