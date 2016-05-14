@@ -16,7 +16,7 @@ From the video:
 
 > Frankly, this is exactly the kind of ability a big 10-mana minion ought to have. Even if your opponent kills it, you feel like you've gotten super paid off because you've gotten this huge effect of dumping all of your dragons in play. 
 
-Kibler points out that this is a huge threat that still delivers after being hit by {% include card name="Big Game Hunter" end="," %} making it earn more of the 10-mana cost. 
+Kibler points out that this is a huge threat that still delivers after being hit by {% include card name="Big Game Hunter" src="oldbiggamehunter.png" end="," %} making it earn more of the 10-mana cost. 
 
 I'm skeptical on this one. Dragon decks have never lacked high-cost threats. 10 mana on one card without Taunt seems too large a tempo loss. Besides, how many dragons will you have in your hand at turn 10 or 11? The whole point of dragon decks is keeping tempo and playing powerful minions on curve. 
 
@@ -26,7 +26,7 @@ On the other hand, if your opponent cannot rush past Deathwing and burst you dow
 
 ## Shadowpriest viable? 
 
-{% include card name="Embrace the Shadow" %} received little love from the community on release. In theory, {% include card name="Auchenai Soulpriest" %} is better because its effect lasts more than one turn and provides a body on the board. In practice, I've found it suffers the same problem as {% include card name="Knife Juggler" %} in that it's so good your opponent will almost always kill it the next turn. 
+{% include card name="Embrace the Shadow" %} received little love from the community on release. In theory, {% include card name="Auchenai Soulpriest" %} is better because its effect lasts more than one turn and provides a body on the board. In practice, I've found it suffers the same problem as {% include card name="Knife Juggler" src="oldknifejuggler.png" %} in that it's so good your opponent will almost always kill it the next turn. 
 
 This puts Embrace the Shadow, which lets you use {% include card name="Circle of Healing" %} one turn sooner, ahead of Auchenai. If nothing else, it'll allow some crazy combo decks with {% include card name="Flash Heal" end="." %}
 

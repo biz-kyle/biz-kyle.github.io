@@ -7,18 +7,18 @@ categories: nerfs, balance, standard, druid
 
 [Standard](http://hearthstone.gamepedia.com/Standard_format) means new cards and [promised nerfs](http://www.shacknews.com/article/93108/hearthstones-ben-brode-on-new-heroes-druid-nerfs-and-why-standard-is-solution-for-now). Blizzard won't say which cards will change to what, but they've given some hints. If we think like a game designer, we can guess what's on the hitlist.
 
-* {% include card src="keeperofthegrove.png" name="Keeper of the Grove" %} \- Keeper is a cheap Silence and Blizzard [doesn't like that mechanic]({% post_url 2016-04-09-silence-rebalance-counter-hearthstone-standard %}). Easy Silences hard counter most buff decks.
-* {% include card src="ancientoflore.png" name="Ancient of Lore" %}
+* {% include card name="Keeper of the Grove" src="oldkeeperofthegrove.png" %} \- Keeper is a cheap Silence and Blizzard [doesn't like that mechanic]({% post_url 2016-04-09-silence-rebalance-counter-hearthstone-standard %}). Easy Silences hard counter most buff decks.
+* {% include card src="oldancientoflore.png" name="Ancient of Lore" %}
 * {% include card src="tirionfordring.png" name="Tirion Fordring" %} \- Paladin auto-include that will only get stronger as Silence gets weaker. 
 * {% include card src="preparation.png" name="Preparation" %}
-* {% include card src="masterofdisguise.png" name="Master of Disguise" %} \- Giving any minion permanent stealth has incredible game-breaking potential. [Blizzard's worried](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard).
+* {% include card src="oldmasterofdisguise.png" name="Master of Disguise" %} \- Giving any minion permanent stealth has incredible game-breaking potential. [Blizzard's worried](http://www.liquidhearth.com/forum/hearthstone/506312-monk-visits-blizzard-changes-coming-to-standard).
 * {% include card src="doomguard.png" name="Doomguard" %} \- Charge is a problematic mechanic, and Doomguard is too strong with the Warlock hero power.
-* {% include card src="ironbeakowl.png" name="Ironbeak Owl" %} \- One of the most common auto-includes and another cheap Silence. The Owl is already [missing from the deck recipes](http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf). 
-* {% include card src="biggamehunter.png" name="Big Game Hunter" %} \- Massive limitation on design space. BGH means we only ever play 7+-attack minions that offer some other benefit (e.x. Boom Bots, 8 damage to a random target, a giant that lets you cheat its mana cost).
+* {% include card src="oldironbeakowl.png" name="Ironbeak Owl" %} \- One of the most common auto-includes and another cheap Silence. The Owl is already [missing from the deck recipes](http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/121189-deck-recipes-hint-at-ironbeak-owl-nerf). 
+* {% include card name="Big Game Hunter" src="oldbiggamehunter.png" %} \- Massive limitation on design space. BGH means we only ever play 7+-attack minions that offer some other benefit (e.x. Boom Bots, 8 damage to a random target, a giant that lets you cheat its mana cost).
 * The Giants - Require BGH.
 * {% include card name="Alexstrasza" %}
-* {% include card src="knifejuggler.png" name="Knife Juggler" %} \- The definition of an auto-include for any zoo, aggro, Paladin or Hunter deck.
-* {% include card src="lepergnome.png" name="Leper Gnome" %} \- Another must-have for any aggro deck. 
+* {% include card name="Knife Juggler" src="oldknifejuggler.png" %} \- The definition of an auto-include for any zoo, aggro, Paladin or Hunter deck.
+* {% include card name="Leper Gnome" src="oldlepergnome.png" %} \- Another must-have for any aggro deck. 
 
 I picked these cards because they're not cycling out with Goblins vs. Gnomes and Naxxramas (home to traditional powerhouses like {% include card name="Dr. Boom" src="drboom.png" end=")." %}
 

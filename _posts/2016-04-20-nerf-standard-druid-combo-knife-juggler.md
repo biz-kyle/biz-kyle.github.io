@@ -12,16 +12,16 @@ cap: Guess who just lost their best combo?
 
 * {% include card name="Ancient of Lore" %} \- Draws 1 card instead of 2.
 * {% include card name="Force of Nature" %} \- 5 mana, summons three 2/2 Treants that don't die and do not have charge. Was 6 mana. 
-* {% include card name="Keeper of the Grove" %} \- 2/2 instead of 2/4.
-* {% include card name="Big Game Hunter" %} \- 5 mana instead of 3.
-* {% include card name="Knife Juggler" %} \- 2/2 instead of 3/2.
-* {% include card name="Ironbeak Owl" %} \- 3 mana instead of 2. 
-* {% include card name="Leper Gnome" %} \- 1/1 instead of 2/1.
-* {% include card name="Hunter's Mark" src="huntersmark.png" %} \- Costs 1 mana, was 2. 
-* {% include card name="Blade Flurry" %} \- Costs 4 mana, was 2, and no longer damages your opponent's face. 
-* {% include card name="Arcane Golem" %} \- 4/4 with no Charge instead of a 4/2 with Charge.
-* {% include card name="Molten Giant" %} \- Costs 25 mana instead of 20. [^2]
-* {% include card name="Master of Disguise" %} \- Grants stealth only until the next turn, not permanently. 
+* {% include card name="Keeper of the Grove" src="oldkeeperofthegrove.png" %} \- 2/2 instead of 2/4.
+* {% include card name="Big Game Hunter" src="oldbiggamehunter.png" %} \- 5 mana instead of 3.
+* {% include card name="Knife Juggler" src="oldknifejuggler.png" %} \- 2/2 instead of 3/2.
+* {% include card name="Ironbeak Owl" src="oldironbeakowl.png" %} \- 3 mana instead of 2. 
+* {% include card name="Leper Gnome" src="oldlepergnome.png" %} \- 1/1 instead of 2/1.
+* {% include card name="Hunter's Mark" src="oldhuntersmark.png" %} \- Costs 1 mana, was 2. 
+* {% include card name="Blade Flurry" src="oldbladeflurry" %} \- Costs 4 mana, was 2, and no longer damages your opponent's face. 
+* {% include card name="Arcane Golem" src="oldarcanegolem.png" %} \- 4/4 with no Charge instead of a 4/2 with Charge.
+* {% include card name="Molten Giant" src="oldmoltengiant.png" %} \- Costs 25 mana instead of 20. [^2]
+* {% include card name="Master of Disguise" src="oldmasterofdisguise.png" %} \- Grants stealth only until the next turn, not permanently. 
 
 [^2]: Slightly sad about this one, I liked Handlock. 
 
