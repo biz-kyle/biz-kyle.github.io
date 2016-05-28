@@ -536,3 +536,8 @@ sup a:hover {
 .post-title a:hover {
 	text-decoration: underline;
 }
+
+/* Make sure iframes can't overflow
+iframe {
+	max-width: 100%;
+}

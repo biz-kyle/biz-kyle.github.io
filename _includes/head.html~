@@ -45,7 +45,7 @@
 	<meta name="google-site-verification" content="7BZuK1NLTofVMDEGKKNH363-otClVY9i9DagltvLJRQ" />
   
 	<!-- Google keywords -->
-	<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}hearthstone, news, analysis, blog{% endif %}, maddest bomber">
+	<meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}hearthstone, news, analysis, blog{% endif %}">
 
 	<!-- Title and description -->
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
