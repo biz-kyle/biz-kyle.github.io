@@ -7,10 +7,17 @@ outlet: true;
 {% for post in paginator.posts %}
 {% assign current = post.title %}
 
+<!-- Capture post published date -->
+{% capture fulldate %}{{ post.date }}{% endcapture %}
+{% assign fulldate = fulldate | split:' ' %}
+{% capture pubdate %}{{ fulldate[1] }}{% endcapture %}
+{% assign pubtimes = pubdate | split:':' %}
+{% capture dater %}{{ pubtimes[0]}}:{{ pubtimes[1] }}{% endcapture %}
+
 <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
 	<!-- Date and section info -->
-	 <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %} | {{ post.categories }}</p>	
+	 <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %} | {{ dater }}</p>	
 
 	<!-- Pull header image -->
 	{% if post.image != null %}
@@ -21,7 +28,8 @@ outlet: true;
 	{{ post.content }}
 
 <hr>
-<br>
+<br><br><br>
+
 
 {% endfor %}
 
