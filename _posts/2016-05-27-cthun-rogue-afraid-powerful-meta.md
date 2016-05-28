@@ -18,4 +18,4 @@ I tried the deck the past week and can find three potential strengths:
 * Double {% include card name="Tomb Pillager" %} lets you {% include card name="Innervate" %} out C'Thun or cast another 2 mana worth of cards during the same turn you play him. 
 * Rogue has a lot of ways to stealth C'Thun the turn he's played because, again, of mana cheating and {% include card name="Conceal" end="." %} Once that happens, only the most powerful board clears like {% include card name="Equality" %} \+ {% include card name="Consecration" %} will remove the stealthed monstrosity. 
 
-I don't think C'Thun Rogue is especially powerful in the current meta. Without {% include card name="Antique Healbot" end="," %} it struggles too much to heal in games. Things get bleak when it doesn't draw {% include card name="Reno Jackson" end="." %}
+I don't think C'Thun Rogue is especially powerful in the current meta. Without {% include card name="Antique Healbot" end="," %} it struggles too much to stay alive. Things get bleak when it doesn't draw {% include card name="Reno Jackson" end="." %}
