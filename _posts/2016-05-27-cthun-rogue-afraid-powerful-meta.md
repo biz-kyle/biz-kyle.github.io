@@ -6,7 +6,7 @@ categories: meta, balance, gamedesign, cthun, oldgods, wotog, news
 date: 2016-05-27 11:05:00 0:00
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O3C4njg--7E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" style="max-width: 100%;" height="315" src="https://www.youtube.com/embed/O3C4njg--7E" frameborder="0" allowfullscreen></iframe>
 
 Dean "Iksar" Ayala talked about designing Whispers of the Old Gods on a recent episode of [The Angry Chicken](https://www.youtube.com/watch?v=O3C4njg--7E). He mentioned extensively playtesting C'Thun Rogue decks before release because he was afraid they'd be too powerful.
 
