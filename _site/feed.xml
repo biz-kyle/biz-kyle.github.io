@@ -6,9 +6,153 @@
 </description>
     <link>http://www.maddestbomber.com/</link>
     <atom:link href="http://www.maddestbomber.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 May 2016 11:30:52 -0400</pubDate>
-    <lastBuildDate>Sat, 28 May 2016 11:30:52 -0400</lastBuildDate>
+    <pubDate>Sat, 11 Jun 2016 11:39:33 -0400</pubDate>
+    <lastBuildDate>Sat, 11 Jun 2016 11:39:33 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>European Spring Championships - Decklists and Meta Breakdown</title>
+        <description>&lt;p&gt;A few things about this &lt;a href=&quot;http://www.hearthpwn.com/news/1479-european-spring-championships-decklists-and-meta&quot;&gt;HearthPwn&lt;/a&gt; list stand out to me.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hunter is in better shape than most people think, especially with &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/callofthewild.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Call of the Wild&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Freeze Mage is still oddly popular, despite being &lt;a href=&quot;/2016/05/14/freeze-mage-hidden-nerfs.html&quot;&gt;elegantly nerfed in Standard&lt;/a&gt;. It hasn’t done well in the spring preliminaries I saw, but that’s not stopping anyone.&lt;/li&gt;
+  &lt;li&gt;Warrior still has a shocking amount of diversity. The class known for being all control all the time now has &lt;em&gt;four&lt;/em&gt; viable archetypes. Incredible.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 11 Jun 2016 11:27:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/06/11/european-spring-championships-meta-analysis.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/06/11/european-spring-championships-meta-analysis.html</guid>
+        
+        
+        <category>tournaments,</category>
+        
+        <category>esports,</category>
+        
+        <category>meta,</category>
+        
+        <category>feature</category>
+        
+      </item>
+    
+      <item>
+        <title>Game Mode ID coming to Hearthstone</title>
+        <description>&lt;p&gt;Great catch by &lt;a href=&quot;http://www.hearthpwn.com/news/1481-game-mode-id-coming-to-hearthstone-new-in-game&quot;&gt;HearthPwn&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Game Mode ID shows an icon beside your name, much like the rank emblems you see on the ladder today, but are specific to each game mode. Arena, Tavern Brawl, Adventures, and Casual will all be getting unique icons, and some will have extra functionality.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Arena icon displays your current win count and below it, you can see how many losses you have on the current run.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Tavern Brawl icon lets you mouseover it to view the rules of the current brawl.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Adventure icon uses an icon from the adventure. No functionality was described.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Casual icons look pretty.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-video&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Want to work with &lt;a href=&quot;https://twitter.com/bdbrode&quot;&gt;@bdbrode&lt;/a&gt; &lt;a href=&quot;https://twitter.com/mxma101&quot;&gt;@mxma101&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/Figluster&quot;&gt;@figluster&lt;/a&gt; on &lt;a href=&quot;https://twitter.com/hashtag/Hearthstone?src=hash&quot;&gt;#Hearthstone&lt;/a&gt; UI design? &lt;a href=&quot;https://t.co/VFns9YPtmm&quot;&gt;https://t.co/VFns9YPtmm&lt;/a&gt;&lt;a href=&quot;https://t.co/YuAdkmalbf&quot;&gt;https://t.co/YuAdkmalbf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hearthstone (@PlayHearthstone) &lt;a href=&quot;https://twitter.com/PlayHearthstone/status/741330960793276417&quot;&gt;June 10, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Would love to see my opponent’s win streak in Arena.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Jun 2016 11:22:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/06/11/game-mode-id-coming-leak.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/06/11/game-mode-id-coming-leak.html</guid>
+        
+        
+        <category>new,</category>
+        
+        <category>gamedesign,</category>
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Facebook comes to Battle.net</title>
+        <description>&lt;p&gt;Blizzard, in a post to their forums caught by &lt;a href=&quot;http://www.icy-veins.com/forums/topic/21157-facebook-will-be-integrated-into-battlenet/&quot;&gt;Icy Veins&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The companies announced today that a major step in their ongoing collaboration will begin later this month with the integration of Facebook Login in Blizzard’s PC games. This will enable players to sign up for and log in to games… using their Facebook accounts&lt;br /&gt;&lt;br /&gt;Adding Facebook Login will pave the way for new social functionality in Blizzard games while highlighting Facebook’s capabilities as a platform for sharing, viewing, and discussing AAA game content. As an example, Blizzard is in the process of incorporating Facebook’s Live API in order to create its own “Go Live” streaming functionality for its games. When this functionality is implemented, players will for the first time be able to livestream their Blizzard-gaming sessions directly to their Facebook timelines, and friends will be able to subscribe and be notified when new streams are available.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Interesting. Facebook has never showed much interest in catering to gamers.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Jun 2016 11:09:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/06/11/facebook-integration-login-battle-net.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/06/11/facebook-integration-login-battle-net.html</guid>
+        
+        
+        <category>store,</category>
+        
+        <category>othergames,</category>
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Team Hearthlytics disbands</title>
+        <description>&lt;p&gt;As announced on &lt;a href=&quot;http://www.twitlonger.com/show/n_1soof2o&quot;&gt;TwitLonger&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the beginning we scouted and signed some of the most successful ladder and online players in the North American scene. Naturally, we assumed talent would bring in victories which would be followed by publicity and popularity. This worked, for a while. We soon hit our ceiling for sponsorships that we could actively work with and provide the results they need to sponsor us monetarily. We worked to increase salaries for the players by incentivizing work related tasks instead of just a monthly stipend (i.e. paying them for creating content, winning tournaments, and promoting the team/sponsors). Truthfully, this is where we went wrong. We created a scenario where professionals who were interested in being the best they can be at a craft were suddenly doing outside-game or uncompetitive related tasks too frequently for their liking.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Esports is growing, but making money is &lt;a href=&quot;/2016/04/15/ladder-hearthstone-pro-30-days.html&quot;&gt;not easy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s especially difficult since in the Hearthstone community there’s an expectation that content creators be pro players as well. Who has the time to do both?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Jun 2016 05:00:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/06/11/team-hearthlytics-disbands-esports.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/06/11/team-hearthlytics-disbands-esports.html</guid>
+        
+        
+        <category>drama,</category>
+        
+        <category>esports,</category>
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Zoo&#39;s worst nightmare</title>
+        <description>&lt;iframe style=&quot;max-width: 100%;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_N1JGy8-b6c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Gotta admit, the music made me chuckle.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 May 2016 14:59:00 -0400</pubDate>
+        <link>http://www.maddestbomber.com/2016/05/28/renounce-darkness-zoo-worst-nightmare.html</link>
+        <guid isPermaLink="true">http://www.maddestbomber.com/2016/05/28/renounce-darkness-zoo-worst-nightmare.html</guid>
+        
+        
+        <category>randomness,</category>
+        
+        <category>highlights,</category>
+        
+        <category>video</category>
+        
+      </item>
     
       <item>
         <title>Chakki on finally getting his win</title>
@@ -144,379 +288,6 @@
         <category>wotog,</category>
         
         <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Freeze Mage was nerfed, we just didn&#39;t notice</title>
-        <description>&lt;p&gt;When Blizzard &lt;a href=&quot;/2016/04/20/nerf-standard-druid-combo-knife-juggler.html&quot;&gt;announced the Standard nerfs&lt;/a&gt;, I was surprised to see Freeze Mage had somehow escaped Blizzard’s wrath. They targeted cards that were used in too many decks (&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldknifejuggler.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Knife Juggler&lt;/span&gt;&lt;/span&gt;)
- and cards that encouraged uninteractive, unfun burst damage combos (&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldarcanegolem.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Arcane Golem&lt;/span&gt;&lt;/span&gt;).&lt;/p&gt;
-
-&lt;p&gt;Under that logic, you’d expect them to target a deck built of uninteractive combos. The whole point of Freeze Mage is to hold your opponent at bay before you burst them down with an uninteractive combo of &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/alexstrasza.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Alexstrasza&lt;/span&gt;&lt;/span&gt;
- and spell damage.&lt;/p&gt;
-
-&lt;p&gt;That’s the thing, though. Freeze Mage was nerfed. Blizzard was just subtle about it.&lt;/p&gt;
-
-&lt;h2 id=&quot;cards-going-away&quot;&gt;Cards going away&lt;/h2&gt;
-
-&lt;p&gt;The most obvious change to the deck is the loss of &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/madscientist.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Mad Scientist&lt;/span&gt;&lt;/span&gt;.
- That card is always a fantastic draw because it could keep tempo in the early game and pull one of your secrets, all of which are critical to winning.&lt;/p&gt;
-
-&lt;p&gt;The ability to pull an &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/iceblock.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ice Block&lt;/span&gt;&lt;/span&gt;
- from anywhere in your deck was powerful. That secret is a critical part of your win condition, and skipping the three-mana cost to play it is pretty great. &lt;strong&gt;Strike one.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;aggro-everywhere&quot;&gt;Aggro everywhere&lt;/h2&gt;
-
-&lt;p&gt;A deck’s quality is always relative to everything else in the meta. Greedy control decks suffer when aggro is in the driver’s seat, just like aggro took a backseat to control and midrange with the introduction of &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/renojackson.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Reno Jackson&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Blizzard knocked Freeze Mage down a peg by taking away Mad Scientist in addition to creating an unfavorable meta for the deck. They left Aggro Shaman with almost all its tools, even giving an incredibly powerful new one with &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/flamewreathedfaceless.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Flamewreathed Faceless&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Aggro decks, especially ones that rely on weapon and spell damage, are tough for Freeze Mage to block. Simply put, you can’t &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/flamestrike.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Flamestrike&lt;/span&gt;&lt;/span&gt;
- his &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/doomhammer.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Doomhammer&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Besides, the board clears are often too late. Without Mad Scientist to contest the board in the early game and pull an &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/icebarrier.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ice Barrier&lt;/span&gt;&lt;/span&gt;,
- the early game becomes a matter of drawing as many cards as possible and possibly using single-target removal like &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/forgottentorch.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Forgotten Torch&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Waiting until turn 4 or 5 to &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/frostnova.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Frost Nova&lt;/span&gt;&lt;/span&gt;
- + &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/doomsayer.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Doomsayer&lt;/span&gt;&lt;/span&gt;
- is death against a deck as fast as Aggro Shaman. Oh, and Aggro Shaman is all over the ladder. &lt;strong&gt;Strike two.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;one-more-bad-matchup&quot;&gt;One more bad matchup&lt;/h2&gt;
-
-&lt;p&gt;Freeze Mage is even worse off in the current meta because &lt;a href=&quot;http://www.icy-veins.com/hearthstone/legendary-paladin-n-zoth-control-standard-deck&quot;&gt;N’Zoth Control&lt;/a&gt; exists. A deck built around hard-to-clear deathrattles and copious amounts of healing? Freeze Mage’s worst nightmare.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/forbiddenhealing.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Forbidden Healing&lt;/span&gt;&lt;/span&gt;
- is what makes this matchup exponentially more competitive for Paladins. Before, Uther had &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/antiquehealbot.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Antique Healbot&lt;/span&gt;&lt;/span&gt;
- and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/layonhands.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Lay on Hands&lt;/span&gt;&lt;/span&gt;.
- Those were decent, but they cost a lot of mana relative to the amount of healing.&lt;/p&gt;
-
-&lt;p&gt;Now that Paladins are running absurd amounts of healing, I would rate this matchup as much tougher than old Paladin decks like Midrange or Secret. Between &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/nzoththecorruptor.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;N’Zoth, the Corruptor&lt;/span&gt;&lt;/span&gt;
- and Forbidden Healing, Blizzard created another good meta deck that Freeze Mage struggles against. &lt;strong&gt;Strike three.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;its-still-decent&quot;&gt;It’s still decent&lt;/h2&gt;
-
-&lt;p&gt;Freeze Mage in the current meta is an interesting example of how power level actually works in Hearthstone. Despite ostensibly losing few cards, Freeze Mage ended up as a second-tier deck in today’s meta because of the growth of aggro and gaining another bad matchup. An elegant rebalancing.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 May 2016 17:32:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/05/14/freeze-mage-hidden-nerfs.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/05/14/freeze-mage-hidden-nerfs.html</guid>
-        
-        
-        <category>nerfs,</category>
-        
-        <category>balance,</category>
-        
-        <category>meta,</category>
-        
-        <category>gamedesign,</category>
-        
-        <category>mage,</category>
-        
-        <category>standard,</category>
-        
-        <category>theory</category>
-        
-      </item>
-    
-      <item>
-        <title>Sorry, Druid&amp;#58; Nerfs announced</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://us.battle.net/hearthstone/en/blog/20097355/&quot;&gt;Finally&lt;/a&gt; (old images used in previews):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldancientoflore.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ancient of Lore&lt;/span&gt;&lt;/span&gt;
- - Draws 1 card instead of 2.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldforceofnature.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Force of Nature&lt;/span&gt;&lt;/span&gt;
- - 5 mana, summons three 2/2 Treants that don’t die and do not have charge. Was 6 mana.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldkeeperofthegrove.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Keeper of the Grove&lt;/span&gt;&lt;/span&gt;
- - 2/2 instead of 2/4.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldbiggamehunter.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Big Game Hunter&lt;/span&gt;&lt;/span&gt;
- - 5 mana instead of 3.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldknifejuggler.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Knife Juggler&lt;/span&gt;&lt;/span&gt;
- - 2/2 instead of 3/2.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldironbeakowl.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Ironbeak Owl&lt;/span&gt;&lt;/span&gt;
- - 3 mana instead of 2.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldlepergnome.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Leper Gnome&lt;/span&gt;&lt;/span&gt;
- - 1/1 instead of 2/1.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldhuntersmark.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Hunter’s Mark&lt;/span&gt;&lt;/span&gt;
- - Costs 1 mana, was 2.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldbladeflurry.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Blade Flurry&lt;/span&gt;&lt;/span&gt;
- - Costs 4 mana, was 2, and no longer damages your opponent’s face.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldarcanegolem.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Arcane Golem&lt;/span&gt;&lt;/span&gt;
- - 4/4 with no Charge instead of a 4/2 with Charge.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldmoltengiant.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Molten Giant&lt;/span&gt;&lt;/span&gt;
- - Costs 25 mana instead of 20. &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/oldmasterofdisguise.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Master of Disguise&lt;/span&gt;&lt;/span&gt;
- - Grants stealth only until the next turn, not permanently.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;die-druid-combo-die&quot;&gt;Die, Druid combo, die&lt;/h2&gt;
-
-&lt;!-- Imports an image and styles it properly, with caption if 
-included. --&gt;
-
-&lt;div class=&quot;imgSplash &quot; style=&quot;overflow: hidden;&quot;&gt;
-	&lt;img class=&quot;inline &quot; src=&quot;/blog/assets/forcenerf.gif&quot; alt=&quot;&quot; /&gt;
-	
-		&lt;div class=&quot;cap&quot;&gt;
-			&lt;p&gt;&lt;/p&gt;
-		&lt;/div&gt;
-	
-	
-		
-	
-&lt;/div&gt;
-
-&lt;p&gt;The best news out of this day is the much-needed death of the Druid combo. Force of Nature + &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/savageroar.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Savage Roar&lt;/span&gt;&lt;/span&gt;
- to deal 14 damage from an empty board (not counting any other minions) was absurdly overpowered.&lt;/p&gt;
-
-&lt;p&gt;What interests me most is that Force of Nature is still an alright card that could work in &lt;a href=&quot;http://www.hearthpwn.com/decks/308819-tgt-wings-legendary-token-druid&quot;&gt;Token Druid&lt;/a&gt; decks.&lt;/p&gt;
-
-&lt;h2 id=&quot;no-more-auto-includes&quot;&gt;No more auto-includes&lt;/h2&gt;
-
-&lt;p&gt;Almost everything on this list is &lt;a href=&quot;/2016/04/08/hearthstone-standard-nerfs.html&quot;&gt;what I guessed would be nerfed&lt;/a&gt;. Blizzard used exactly the logic I predicted (which wasn’t much of a prediction given that they directly told us their logic ahead of time).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Strong, widely-played neutral cards can stifle deck-building decisions and homogenize decks. These cards also make it more difficult to create new cards that can compete with them. We’re adjusting these neutral cards so that other cards can become compelling replacements, and open the door for more of a deck’s power to come from its Class identity.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is exactly what I was talking about. Blizzard wants to make a game with lots of different decks and varied gameplay because that’s more interesting than one where everyone plays Knife Juggler, &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/drboom.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Dr. Boom&lt;/span&gt;&lt;/span&gt;
- and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/pilotedshredder.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Piloted Shredder&lt;/span&gt;&lt;/span&gt;.
- They targeted the cards that were so good you couldn’t not play them. Knife Juggler and Leper Gnome are the poster children of that category.&lt;/p&gt;
-
-&lt;h2 id=&quot;nerfing-counters&quot;&gt;Nerfing counters&lt;/h2&gt;
-
-&lt;!-- Imports an image and styles it properly, with caption if 
-included. --&gt;
-
-&lt;div class=&quot;imgSplash &quot; style=&quot;overflow: hidden;&quot;&gt;
-	&lt;img class=&quot;inline &quot; src=&quot;/blog/assets/keepernerf.gif&quot; alt=&quot;&quot; /&gt;
-	
-		&lt;div class=&quot;cap&quot;&gt;
-			&lt;p&gt;&lt;/p&gt;
-		&lt;/div&gt;
-	
-	
-		
-	
-&lt;/div&gt;
-
-&lt;p&gt;While Blizzard did not remove Silence from the game, it did make some of the most common silencing minions more costly to play. A pricier Ironbeak Owl will still probably see play, but not as much and it won’t be as powerful.&lt;/p&gt;
-
-&lt;p&gt;Keeper of the Grove also took a gigantic nerf. 2/2 is brutal and will relegate it to tech card status instead of Druid mainstay.&lt;/p&gt;
-
-&lt;p&gt;I was right about &lt;a href=&quot;/2016/04/09/silence-rebalance-counter-hearthstone-standard.html&quot;&gt;Blizzard wanting to nerf Silence&lt;/a&gt;, but I did not predict the manner in which it would do so. The mechanic will remain in the game, but it’ll cost you more.&lt;/p&gt;
-
-&lt;p&gt;That seems to be the trend across the board. Big Game Hunter’s new 5-mana cost is a hard slap to make class-specific removal actually competitive with him. I’ll still play BGH in Wild where Dr. Boom lives eternal, but in Standard? Maybe it’s time to bring back &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/naturalize.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Naturalize&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;I suspect Blizzard brought the hammer down on Hunter’s Mark not because it was overpowered in the current meta, but because it would be in one where BGH cost 5 mana.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;rogue-gets-a-slight-nerf&quot;&gt;Rogue gets a slight nerf&lt;/h2&gt;
-
-&lt;p&gt;Blizzard picked an interesting card to nerf with Blade Flurry. I thought it would be &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/preparation.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Preparation&lt;/span&gt;&lt;/span&gt;,
- one of the staples of every deck. But their logic was much stronger:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Blade Flurry is a problem because it enables both board clear and heavy burst damage.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;2 mana to essentially double your weapon damage was always where &lt;a href=&quot;http://www.icy-veins.com/hearthstone/oil-rogue-deck&quot;&gt;Oil Rogue&lt;/a&gt; was strongest. Having that in the game would mean any substantive weapon upgrades would have to be looked at carefully.&lt;/p&gt;
-
-&lt;p&gt;It also means Rogue’s last competitive deck is out of the meta until we see it get good cards again. &lt;a href=&quot;http://www.hearthpwn.com/decks/376635-top-5-legend-raptor-rogue&quot;&gt;Raptor Rogue&lt;/a&gt; is decent but it’s not dominated the meta the way Oil used to.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-ones-that-escaped&quot;&gt;The ones that escaped&lt;/h2&gt;
-
-&lt;p&gt;Cards that I or others thought would be nerfed, but were not:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/alexstrasza.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Alexstrasza&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/preparation.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Preparation&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/doomguard.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Doomguard&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/tirionfordring.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Tirion Fordring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’m surprised that &lt;a href=&quot;http://www.icy-veins.com/hearthstone/legendary-mage-freeze-loe-deck&quot;&gt;Freeze Mage&lt;/a&gt; made it out alive when it thrives on uninteractive freezing and damage from hand combos. Maybe Blizz internal stats say it won’t be a problem after losing &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/madscientist.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Mad Scientist&lt;/span&gt;&lt;/span&gt;
- and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/antiquehealbot.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Antique Healbot&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Doomguard guess was half-right (Blizzard doesn’t like powerful Charge minions) but missed the important part. Doomguard is okay and Arcane Golem is not because the latter is a cheaper neutral minion that can be spliced into any wonky OTK deck.&lt;/p&gt;
-
-&lt;p&gt;Tirion, I assume, made it out safe because he is a class card. He’s also not what makes Paladin so good in the current pre-Whispers meta; that honor belongs to &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/mysteriouschallenger.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Mysterious Challenger&lt;/span&gt;&lt;/span&gt;,
- &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/shieldedminibot.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Shielded Minibot&lt;/span&gt;&lt;/span&gt;
- and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/musterforbattle.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Muster for Battle&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Blizzard says the changes will launch with Hearthstone 5.0. Can’t wait to see the new meta!&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Slightly sad about this one, I liked Handlock. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Related note, the owl and mark nerfs are brutal for Face Hunter. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 20 Apr 2016 17:38:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/04/20/nerf-standard-druid-combo-knife-juggler.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/20/nerf-standard-druid-combo-knife-juggler.html</guid>
-        
-        
-        <category>nerfs,</category>
-        
-        <category>balance,</category>
-        
-        <category>standard,</category>
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>New legendaries revealed</title>
-        <description>&lt;p&gt;Some exciting legendaries coming up.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/shifterzerus.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Shifter Zerus&lt;/span&gt;&lt;/span&gt;
- - Can’t believe Blizzard made a better &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/unstableportal.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Unstable Portal&lt;/span&gt;&lt;/span&gt;.
- Knowing what you get more than makes up for no mana discount.&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/princesshuhuran.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Princess Huhuran&lt;/span&gt;&lt;/span&gt;
- - Extremely powerful in a Midrange Hunter. Using this with even a &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/webspinner.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Webspinner&lt;/span&gt;&lt;/span&gt;
- would be strong.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CompetitiveHS/comments/4f6p9b/whispers_of_the_old_gods_reveals_for_04172016/&quot;&gt;Dark Arakkoa&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;6-mana common Druid minion, 5/7, Taunt, Battlecry: Give your C’thun +3/+3&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Good stats, good effect.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/CompetitiveHS/comments/4ewk5o/whispers_of_the_old_gods_reveals_for_04152016/&quot;&gt;Demented Frostcaller&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;4-mana rare Mage minion, 2/4, After you cast a spell, freeze a random enemy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Curious to see if this makes it into Tempo Mage decks.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/shiftingshade.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Shifting Shade&lt;/span&gt;&lt;/span&gt;
- - I’d pull one from &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/museumcurator.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Museum Curator&lt;/span&gt;&lt;/span&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 18 Apr 2016 19:59:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/04/18/mage-legendary-shifter-zerus.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/18/mage-legendary-shifter-zerus.html</guid>
-        
-        
-        <category>new,</category>
-        
-        <category>wotog,</category>
-        
-        <category>mage,</category>
-        
-        <category>cards</category>
-        
-      </item>
-    
-      <item>
-        <title>Arena has no hidden matchmaker ranking</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.icy-veins.com/forums/topic/20151-hearthstones-ben-brode-clarifies-that-there-is-no-mmr-in-arena/&quot;&gt;Icy Veins&lt;/a&gt;, recapping Ben Brode’s interview with &lt;a href=&quot;https://www.twitch.tv/itshafu&quot;&gt;Hafu&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;For months, the Arena community has wondered if there was a hidden Matchmaker Rating (MMR) in Arena that pairs not only players on similar scores, but also players of similar skill. Lead Game Designer, Ben Brode, joined Hafu on her stream to clear up the matter once and for all. He was also asked about some other smaller things.&lt;br /&gt;&lt;br /&gt;The key point made, was that Matchmaking only looks at win-loss records when pairing players in Arena. The only exception is made for “brand new players”, who are treated as if they have one more loss than they actually have, and will be matched with other new players if possible. The exact numbers are still being tweaked, but this lasts for your first “two or three runs” on a new account.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Amazing how much we don’t know about the inner workings of this game.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Apr 2016 05:59:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/04/16/hafu-ben-brode-arena-interview-mmr.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/16/hafu-ben-brode-arena-interview-mmr.html</guid>
-        
-        
-        <category>arena,</category>
-        
-        <category>hafu,</category>
-        
-        <category>streamers,</category>
-        
-        <category>benbrode,</category>
-        
-        <category>gamedev</category>
-        
-      </item>
-    
-      <item>
-        <title>Why sticky minions are important</title>
-        <description>&lt;p&gt;&lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/hauntedcreeper.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Haunted Creeper&lt;/span&gt;&lt;/span&gt;
- is cycling out of standard, but sticky minions are not.&lt;/p&gt;
-
-&lt;p&gt;A livestream by GameplayRJ &lt;a href=&quot;https://www.reddit.com/r/hearthstone/comments/4ec779/new_card_revealed/&quot;&gt;revealed&lt;/a&gt; &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/twilightsummoner.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Twilight Summoner&lt;/span&gt;&lt;/span&gt;,
- an interesting neutral epic.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;4-mana, 1/1
-Deathrattle: Summon a 5/5 Faceless Destroyer&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Twilight Summoner, &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/possessedvillager.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Possessed Villager&lt;/span&gt;&lt;/span&gt;,
- and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/infestedtauren.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Infested Tauren&lt;/span&gt;&lt;/span&gt;
- show Blizzard sees “sticky” minions (minions that summon other minions as their deathrattle) as a good addition to the game.&lt;/p&gt;
-
-&lt;p&gt;While not as strong as previous deathrattle powerhouses Haunted Creeper and &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/pilotedshredder.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Piloted Shredder&lt;/span&gt;&lt;/span&gt;,
- these new minions still survive a board clear. This makes them annoying to control decks but important to the game’s health overall.&lt;/p&gt;
-
-&lt;p&gt;A Hearthstone meta with no sticky minions is one where Freeze Mage and other board clear-heavy decks dominate competitive play. Sticky minions empower zoo decks by providing minions and tempo which can’t be immediately wiped away.&lt;/p&gt;
-
-&lt;p&gt;Hearthstone has so few ways to interact with your opponents’ spells, especially for aggro decks since &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/loatheb.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Loatheb&lt;/span&gt;&lt;/span&gt;
- is cycling out. Minions that spawn other minions are one of your few ways to fight back against &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/flamestrike.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Flamestrike&lt;/span&gt;&lt;/span&gt;.
-&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;we-need-aggro&quot;&gt;We need aggro&lt;/h2&gt;
-
-&lt;p&gt;Sticky minions also provide unique value to aggro decks. Cards like Haunted Creeper and Infested Tauren provide two minions inside one card, an invaluable proposition when your plan is to flood the board with minions and you only have 30 cards with which to do so.&lt;/p&gt;
-
-&lt;p&gt;The double minion value helps bring aggro decks’ power in line with control because control decks tend to have a much higher per-card value. A good control or midrange deck has powerful minions like Dr. Boom or &lt;span class=&quot;card&quot;&gt;&lt;img class=&quot;cardimg&quot; src=&quot;/blog/assets/cards/sylvanaswindrunner.png&quot; lazyload=&quot;&quot; /&gt;&lt;span class=&quot;cardtext&quot;&gt;Sylvanas Windrunner&lt;/span&gt;&lt;/span&gt;
- that do more than a 3/1 with Charge.&lt;/p&gt;
-
-&lt;p&gt;Despite some players’ feelings, helping aggro decks is good for the meta and game. Aggro decks are cheaper to craft and let newbies compete with players who have the time or money to craft every legendary in their golden Control Warrior build.&lt;/p&gt;
-
-&lt;p&gt;Aggro helps teach tempo and value as well. Knowing when to trade and when to go face is essential to a high win rate with Zoo or Face Hunter. The best aggro players know how to make just enough trades to keep tempo and prevent their opponents from making favorable trades. Knowing that balance will make you a better Hearthstone player with every deck.&lt;/p&gt;
-
-&lt;p&gt;Future sticky minions may not be as ubiquitous as Haunted Creeper, but it’s good Blizzard is keeping them in the game.&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;I see this concept in action whenever I play &lt;a href=&quot;http://www.icy-veins.com/hearthstone/warlock-zoo-loe-deck&quot;&gt;Zoo&lt;/a&gt; vs. &lt;a href=&quot;http://www.icy-veins.com/hearthstone/legendary-mage-freeze-loe-deck&quot;&gt;Freeze Mage&lt;/a&gt;, a matchup where me beating the mage relies almost entirely on good sticky minions like Creeper and Piloted Shredder. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 16 Apr 2016 05:29:00 -0400</pubDate>
-        <link>http://www.maddestbomber.com/2016/04/16/sticky-minions-whispers-of-the-old-gods.html</link>
-        <guid isPermaLink="true">http://www.maddestbomber.com/2016/04/16/sticky-minions-whispers-of-the-old-gods.html</guid>
-        
-        
-        <category>aggro,</category>
-        
-        <category>balance,</category>
-        
-        <category>gamedesign,</category>
-        
-        <category>new,</category>
-        
-        <category>wotog,</category>
-        
-        <category>theory</category>
         
       </item>
     
