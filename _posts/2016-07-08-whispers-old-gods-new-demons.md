@@ -4,6 +4,7 @@ title: Why we got no new demons in WotOG
 keywords: demons, whispers of the old gods, new content, ben brode, reddit
 categories: gamedesign, wotog, new, news
 date: 2016-07-08 17:00:00 0:00
+image: malganisart.jpg
 ---
 
 Ben Brode, in a [Reddit comment](https://www.reddit.com/r/hearthstone/comments/4q10ra/why_are_the_overwatch_devs_so_much_more/d4pyuad) explaining why Whispers of the Old Gods had a conspicuous lack of {% include card name="Mal'Ganis" src="malganis.png" %} replacements:
