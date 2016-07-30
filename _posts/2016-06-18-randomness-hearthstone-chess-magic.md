@@ -3,7 +3,7 @@ layout: post
 title: Chess, variance and why losing 20 games in a row means nothing
 keywords: chess, variance, losing, games, hearthstone, card games, randomness, rng
 categories: randomness, gamedesign, theory
-date: 2016-07-28 12:34:00 0:00
+date: 2016-08-28 12:34:00 0:00
 image: chess.jpg
 ---
 
