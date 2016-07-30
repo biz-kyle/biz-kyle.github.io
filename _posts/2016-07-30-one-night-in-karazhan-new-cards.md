@@ -11,7 +11,7 @@ Finally, [the new adventure](http://us.battle.net/hearthstone/en/blog/20190302/t
 
 <iframe width="560" style="max-width: 100%;" height="315" src="https://www.youtube.com/embed/qlHx7YNWYGY" frameborder="0" allowfullscreen></iframe>
 
-> ou’re invited to attend the shindig of the millennium at Azeroth’s most terrific tower—Karazhan! As Medivh’s guest, you’ll experience everything his delightful domicile has to offer while rubbing shoulders with Azeroth’s most fascinating beings and dancing the night away in Hearthstone’s next Adventure: **One Night in Karazhan!**
+> You’re invited to attend the shindig of the millennium at Azeroth’s most terrific tower—Karazhan! As Medivh’s guest, you’ll experience everything his delightful domicile has to offer while rubbing shoulders with Azeroth’s most fascinating beings and dancing the night away in Hearthstone’s next Adventure: **One Night in Karazhan!**
 
 Looks like a good time. The first mission of the adventure will be free, which means everyone will get {% include card name="Enchanted Raven" %} and {% include card name="Firelands Portal" %} free. 
 
